@@ -1,0 +1,107 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Project-specific outputs
+assets/output/interviews/coding/cleaned/
+assets/output/interviews/coding/segmented/
+assets/output/interviews/coding/classified/
+assets/output/interviews/coding/analysis/
+assets/output/interviews/coding/partial/
+
+# Cache and log files
+*.log
+*.pkl
+*.pickle
+embeddings_cache.pkl
+classification_results.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentation (if you want to keep these out of git)
+# Uncomment if you don't want documentation in the repo
+# README.md
+# PROJECT_DOCUMENTATION.md
+# QUICK_REFERENCE.md
+# SYSTEM_OVERVIEW.md
+# EXECUTIVE_SUMMARY.md
+# DOCUMENTATION_INDEX.md
+
+# Test files
+test_output/
+tests/__pycache__/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.pytest_cache/
+
