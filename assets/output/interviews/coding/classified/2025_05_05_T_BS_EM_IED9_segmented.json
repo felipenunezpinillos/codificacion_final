@@ -1,0 +1,151 @@
+[
+  {
+    "fragment": "Soy [Nombre de persona], de 11.1, y tengo entendido que JER es la Justicia Escolar Restaurativa, que se encarga de todos los procesos escolares, como accidentes, peleas y así, y se encarga de todos los procesos y de la mediación que se tendría que realizar para corregir estos eventos. Creo que es donde un grupo de personas, pues, simplemente evalúan algún tipo de conflictos y los ayudan cómo resolverlo o simplemente toman como descripciones de lo que pasa.",
+    "question": "Question not available",
+    "category": [
+      "11.3 Presupuesto específico estrategia JER",
+      "0.1. Conocimiento de la JER"
+    ],
+    "confidence": 0.8255468481043191
+  },
+  {
+    "fragment": "Un ambiente en el que no hay peleas, no hay conflictos, y ya. Un ambiente en la institución en el que los conflictos no escalen a mayores. Diría más que sería un ambiente más tranquilo y menos hostil para los estudiantes. Un ambiente donde las personas no tienen temores y simplemente no tienen miedo a ser juzgados por algo y donde no hay tantos conflictos o no hay. Un lugar donde es muy pacífico, donde no hay conflictos de ningún tipo y donde las personas conviven muy bien entre ellos.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.8165344403488441
+  },
+  {
+    "fragment": "Pues siento que no hay mucho peligro ni como cosas malas que podrían influir en nosotros para que lo vuelva un lugar muy peligroso. Pues siento que en parte sí puede ser inseguro, pero también seguro porque depende del entorno en el que uno esté con las personas que uno hace junta. Porque simplemente, pues sí puede haber, pero en otros grupos. No en todos los grupos va a haber el mismo conflicto.",
+    "question": "Question not available",
+    "category": [
+      "8.2. Seguridad",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7781812929724556
+  },
+  {
+    "fragment": "Bueno, no en todos los grupos, sí. Pues diría que este colegio sí es un lugar seguro comparado con algunas experiencias anteriores, de colegios anteriores, porque sí me he sentido más libre y tranquilo de expresar como soy. O no sé, como tipo... es más tranquilo, por así decirlo. Siento que el colegio es un espacio seguro, libre de preocupaciones. Siento que sí es un lugar seguro porque los problemas no escalan tanto a mayores, no se ve mucho conflicto. Para mí el lugar es seguro. Sí, el colegio es seguro.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.792636361547554
+  },
+  {
+    "fragment": "Pues, hay diferentes grupos en el colegio, ya sean vigilias ambientales o diferentes personas como nosotros de biotecnología, quienes se encargan de la parte de cuidar al planeta y cuidar las diferentes plantas y demás que tenemos en la institución.",
+    "question": "Question not available",
+    "category": [
+      "0.3. Contexto de la IED",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7855887841049032
+  },
+  {
+    "fragment": "Pues, como tal, no se me ocurre que podría añadir, pero soluciones ya han habido. Ejemplo, el programa Hermes, que está especializado en tratar dichos conflictos, por parte de estudiantes, pero por parte de profesores no he visto. Sería bueno una convivencia entre estudiante y profesor. Y ahí tratar de solucionar el problema, porque entre estudiantes, normal. Hasta ellos pueden usar sus propias soluciones y todo, pero por parte de los estudiantes hacia los profesores sería una buena idea.",
+    "question": "Question not available",
+    "category": [
+      "0.6. Programas relacionados con la JER",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.8106057032626333
+  },
+  {
+    "fragment": "La relación puede variar. Hay profesores que sí son, por así decirlo, buena gente, no son tan furiosos, nada, son más relajados, calmados, y entienden la situación de los estudiantes, ya sea conflictos humanitarios o por medio del salón, ya sean físicos o verbales, son más calmados.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7896746772076435
+  },
+  {
+    "fragment": "Decepción por parte de los estudiantes y la situación en cuestión. Enojo por no poder hacer nada, pero al mismo tiempo una impotencia. Por el simple hecho de que, en un conflicto en el cual yo podría haber intervenido ya sea citando a los padres o a los hijos haciendo reuniones con [Nombre de persona] y con [Nombre de persona], no pudiera hacer nada pues... Uno se siente mal.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7804602766735195
+  },
+  {
+    "fragment": "Se citaron a los padres de [Nombre de persona] y al mismo estudiante, también a los padres de [Nombre de persona] y [Nombre de persona] y se habló de la situación. Se hicieron varias preguntas del por qué de cada cosa. Por qué la pelea, por qué el racismo hacia el compañero [Nombre de persona]. Que no tenía ninguna relación con ellos dos hace dos años. Y la debida expulsión por parte de ambos estudiantes y una nota hacia los padres. Debido al comportamiento que sus hijos han adquirido.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7877336666545809
+  },
+  {
+    "fragment": "Cómo, pues... Donde los... Los estudiantes puedan charlar sobre problemas que tengan con los demás o algo así, para poder mediar sus conflictos antes de que pasen a mayores. Y, pues... Nada más.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7957980386065931
+  },
+  {
+    "fragment": "Podría pedirle a los padres un cambio de jornada por parte de ambos, o sea, por parte de los tres sujetos, y si dicha petición es realizada, pues, bien, ya los estudiantes están separados, no va a haber más conflictos.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7775440002601163
+  },
+  {
+    "fragment": "No, eso ya es un problema que puede pasar en cualquier lugar, sea dentro o fuera de la institución. Pero es el problema que más impacto ha tenido y el que, obviamente, sí o sí tiene que solucionarse directamente, porque varios conflictos que pasan no se comentan o no se... Pasan de largo, y al no poder solucionar cada problema...",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.775291739205165
+  },
+  {
+    "fragment": "Es triste saber que... Incluso después de esto que ocurrió... Este tipo de conflictos va a ser algo que seguirá ocurriendo en la institución. Porque sin importar que se haga, seguirá... Los estudiantes seguirán teniendo sus diferencias, tendrán sus conflictos entre sí. Y pues, eso eventualmente, si no se maneja correctamente, llevará a un conflicto de esta escala.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.7847229524159992
+  },
+  {
+    "fragment": "Sí, también, ahora sí siento lo que iba a decir ahorita, que más o menos, porque pues sí se puede realizar la mediación y todo este proceso, pero siento que pues las personas no quedan conformes con el resultado, sobre todo las víctimas. Sí, las personas pueden medir.",
+    "question": "Question not available",
+    "category": [
+      "10.1 Estrategias para el reconocimiento del daño y su importancia en los procesos de restauración.",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.7801355419248318
+  },
+  {
+    "fragment": "Cuando uno está en casa o en el colegio, o sea, yo aquí puedo estar feliz o cualquier cosa, pero cuando estoy en casa cualquier cosa me puede emputar, pues no saber qué hacer. Uno en el colegio o afuera, tiene a los amigos, ellos le pueden aconsejar, pueden decirle qué hacer, cómo reaccionar, pero uno estando solo, a veces no sabe ni qué hacer, se ahoga solito en un vasito.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.773623628188302
+  },
+  {
+    "fragment": "Esto me ayudó a reflexionar acerca de lo importante que es el manejo de las emociones a la hora de tener un conflicto con uno mismo, con otras personas.",
+    "question": "Question not available",
+    "category": [
+      "3.1. Cambios en capacidades socioemocionales"
+    ],
+    "confidence": 0.7765864665246859
+  },
+  {
+    "fragment": "Esto me sirvió para reflexionar sobre qué se debe hacer en un conflicto, cómo solucionan un conflicto, no sé, no sé. A mí me ayudó a reflexionar sobre la respuesta de cada uno de los presentes aquí, que por más que para mí una solución sea, por ejemplo, lo de la expulsión, otros no apoyaron la idea.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7929701534820691
+  }
+]

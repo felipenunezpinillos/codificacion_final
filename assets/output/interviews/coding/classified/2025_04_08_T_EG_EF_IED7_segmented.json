@@ -1,0 +1,329 @@
+[
+  {
+    "fragment": "Soy NOMBRE PERSONA y para mí la paz es la tranquilidad. Eso, y tú te quedas con una puntita y lo vamos diciendo. Soy NOMBRE PERSONA y para mí la paz es como la calma. Soy NOMBRE PERSONA y la paz para mí es el respeto. Soy NOMBRE PERSONA y para mí la paz es empatía.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7956288154149311
+  },
+  {
+    "fragment": "Soy NOMBRE PERSONA y para mí la paz es tranquilidad. Soy NOMBRE PERSONA y para mí la paz es compresión. Soy NOMBRE PERSONA y para mí la paz es como amor y amistad. Soy NOMBRE PERSONA y para mí la paz es armonía. Soy NOMBRE PERSONA y para mí la paz es amistad.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7905573785843203
+  },
+  {
+    "fragment": "Pues yo siento que en cada actividad en la que podemos compartir generamos la paz, es como cuando tenemos la oportunidad de reconocernos y generar ese vínculo para que la paz se vea como la primera actividad de este año que es el día de la inauguración de Juegos. Entonces todos tuvimos esa comunicación para generar esa paz y que todos estuviéramos bien ese día.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8065876392076842
+  },
+  {
+    "fragment": "Pues una actividad fue el año pasado cuando nos hicieron simular actividades donde se veían discapacidades, donde nos pusimos de manera empática en el lugar de otras personas y nos demostramos que o sea, sin importar todo somos iguales y eso de manera a mi parecer es generar paz.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7891880691523108
+  },
+  {
+    "fragment": "Por el hecho de que todos tenemos que tener como una conciencia y una razón pasiva de no estar como que todo el mundo nos esté agrediendo o nosotros mismos agrediéndonos. Sinceramente ese es mi punto de opinión sobre la paz.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8018608274741666
+  },
+  {
+    "fragment": "Pues primero porque lo mismo lo que yo decía de que para mí la paz es tranquilidad. Entonces, si no estamos tranquilos no vamos a ser felices y estables en la vida. Entonces, nos van a traer muchas frustraciones y podemos llegar a hacer cosas que realmente no queremos porque nos sentimos en esa tranquilidad y la paz lo que hace es eso. Entonces, por eso la paz es ese derecho fundamental que todos necesitamos para convivir.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.3. Paz y otros derechos"
+    ],
+    "confidence": 0.8177396077706176
+  },
+  {
+    "fragment": "Pues como dice NOMBRE PERSONA, la paz es tranquilidad y si no estamos tranquilos, entonces, ¿cómo podemos tener buena comunicación entre nosotros? Si vamos a estar peleando o de pronto vamos a estar en malas actitudes con el resto.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.8024919265087628
+  },
+  {
+    "fragment": "Pues, o sea, también estoy más que en las direcciones de curso porque en las direcciones de curso hablan de muchos de esos temas, ¿sí? O sea, hablan casi de todo un poquito, pero hablan más de esos temas y como que los ponen a hacer actividades de lectura, hacer grupos, o sea, contestar preguntas o también los hacen ver videos para entender más del tema.",
+    "question": "Question not available",
+    "category": [
+      "11.7 Metodologías de enseñanza modificadas",
+      "11.10 Uso de mecanismos de participación"
+    ],
+    "confidence": 0.7777010224719969
+  },
+  {
+    "fragment": "Porque, pues, la institución sí promueve la paz, pero... Y la zona de convivencia también. Sí, pero como que la sociedad estudiantil no... Como que el clima estudiantil es agobiante. El clima estudiantil tiende a ser agobiante y, o sea, el colegio puede que sea un lugar de paz, pero las personas hacen que no sea un lugar de paz en su totalidad.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8087129063528627
+  },
+  {
+    "fragment": "Pues, más que todo, ser buena persona, ser una persona empática y sociable, eso ayuda en la paz. ¿Cómo tratamos a nuestras personas para ayudar a que ellos también formen ese tipo de cambios? Quieren poner un granito de arena para ser partícipes y colaborar en la sana convivencia.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.8019359703607062
+  },
+  {
+    "fragment": "Pues, yo lo veo más por el lado de que exista la comunicación, que si existe algún pleito, lo hablemos, ¿sí? En vez de llegar a extremos mayores, ¿sí? Entonces, seríamos como por ese lado, tener una buena comunicación, un respeto.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7824596167693584
+  },
+  {
+    "fragment": "En estos espacios se hacen como espacios de unión con las personas involucradas en los problemas, que lleven a la empatía o lleven a la reflexión o actividades que se halle la paz y la buena comunicación entre las dos personas involucradas. No, no me acordaría bien.",
+    "question": "Question not available",
+    "category": [
+      "10.2 Espacios creados para fomentar el diálogo restaurativo.",
+      "3.2. Acciones para fortalecer capacidades socioemocionales"
+    ],
+    "confidence": 0.819035581163972
+  },
+  {
+    "fragment": "O de hecho, creo que no es como tal que el colegio haga los espacios, sino es que uno mismo puede generar ese espacio. Cuando a mí me pasó un conflicto, pedí un espacio a la profesora para arreglar ese conflicto, salí afuera del salón y generamos el espacio de diálogo para así poder resolverlo.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7973805369398117
+  },
+  {
+    "fragment": "Hacer reuniones convivenciales con los padres, el estudiante y directivos superiores académicos para generar un acuerdo ya convivencial para que no se vuelva como a repetir el problema.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.8020811409075373
+  },
+  {
+    "fragment": "Si se tienen los espacios de convivencia que se reúnen el acudiente, el estudiante, la personera, la representante de padres y se genera el espacio de diálogo para saber cómo se puede resolver y después de un tiempo mirar y verificar si realmente esos acuerdos a los que se llegaron sí se están llevando a cabo.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "10.2 Espacios creados para fomentar el diálogo restaurativo."
+    ],
+    "confidence": 0.8248814635780145
+  },
+  {
+    "fragment": "1. Bueno, un caso de un muchacho de 11 años que se publicó un video ofendiendo a otros cursos, la parte restaurativa fue hacer un video donde se pidiera perdón a la comunidad por lo que hizo, por lo que en ese caso sí se cumplió el acuerdo al que se llegó.",
+    "question": "Question not available",
+    "category": [
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo."
+    ],
+    "confidence": 0.7751852281166055
+  },
+  {
+    "fragment": "2. En otro caso, en el que no se cumplió, el estudiante tuvo una agresión muy fuerte durante varios días y se llegó al acuerdo de que recibiera acompañamiento y aprendiera a regularse, pero no se logró ni siquiera el acompañamiento porque, por parte de la familia, tampoco se logró que llegaran y brindaran ese apoyo.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7915061632017409
+  },
+  {
+    "fragment": "3. La diferencia entre ambos casos radica en que en uno se cumplió con la reparación y en el otro no se logró implementar las acciones acordadas debido a la falta de apoyo familiar, lo que impidió que el proceso de regulación emocional del estudiante avanzara.",
+    "question": "Question not available",
+    "category": [
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo.",
+      "10.1 Estrategias para el reconocimiento del daño y su importancia en los procesos de restauración."
+    ],
+    "confidence": 0.7964643033237147
+  },
+  {
+    "fragment": "Cuando no se cumplen los acuerdos, se manda a un comité institucional, que es una instancia en la que participan diferentes personas, incluyendo a alguien que viene de la secretaría para tomar apuntes y analizar cómo se puede llevar el caso.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED",
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo."
+    ],
+    "confidence": 0.7826612705307724
+  },
+  {
+    "fragment": "Como en el comité charlas en coordinación prácticamente son como esas uniones de charla también puede ser como con orientación y hasta con los mismos profesores aveces.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7947732993610385
+  },
+  {
+    "fragment": "Sí, pero nos enseñaron aquí independientemente de todo tenemos que respetar y hacernos respetar. Más de una situación no sólo con el tema de nuestra orientación sexual y nuestro respeto y nuestro cuerpo, sino también lo han hecho con ocasiones como discapacidades y ¿Con qué más? Ah, y con los debidos procesos nos han medio mencionado en ocasiones los debidos procesos y situaciones para mejorar y que no haya un problema más grande.",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7765246530604747
+  },
+  {
+    "fragment": "Pues, nosotros pensamos que las direcciones de curso porque realmente ponen muchos temas que son importantes para todos, entonces, hablan un poquito de todo como la educación sexual no sé, bueno, como muchos otros temas o sea, muchos temas casi un poquito de todo y... ya no sé.",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.7744426275206344
+  },
+  {
+    "fragment": "Justamente esos temas los hemos tocado en mi curso, especialmente el año pasado en Sociales, donde nos mencionaron mucho el tema de nuestra historia pasada. Nos explicaron que si no conocemos nuestro pasado estamos condenados a repetirlo, por lo que han hecho mucho énfasis en los conflictos anteriores para que no se vuelvan a repetir y así lograr una mejora constante como sociedad. Además, los profesores nos brindan espacios para conocer y comprender mejor estos problemas sociales, y la profesora de Sociales es muy dinámica, nos enseña de manera que podamos entender con facilidad cuáles son los problemas sociales y cómo podríamos mejorarlos.",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.8107675801805282
+  },
+  {
+    "fragment": "Bueno pues primero aclarar creo que se han dado cuenta que mencionamos mucho las direcciones de curso acá no solo le dan énfasis claro es muy importante en matemáticas, filosofía sociales y todo, pero también le dan un énfasis a lo que nos va a servir a nosotros como para la vida exactamente. En este sentido, siempre se van a generar ciertas direcciones de curso y en este caso las llega a generar la orientadora, o la señora, la muchacha de inclusión, que nos enseña con ciertas actividades de cómo gestionar nuestras emociones.",
+    "question": "Question not available",
+    "category": [
+      "3.2. Acciones para fortalecer capacidades socioemocionales",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7958884365592768
+  },
+  {
+    "fragment": "Ah, ¿tú quieres participar? Bueno, por ejemplo, en el comedor yo el año pasado era representante del PAE, que es el programa de alimentación estudiantil escolar. Estuvimos en una reunión con el PAE y nos dijeron que los residuos que quedan de la comida los convierten en compost para las plantas. ¿Todos saben qué es un compost o compostaje? El concepto surge en nuestra época, ya que antes no pasaba nada de esto y ahora hay más conciencia ambiental. La institución nos apoya para crear espacios de paz mediante actividades recreativas y situaciones de reencuentro, promoviendo la paz escolar y fomentando la participación de los estudiantes en estos procesos.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7937039990308628
+  },
+  {
+    "fragment": "No, ahí es algo muy realista y siempre tenemos que ser realistas, obviamente no todo va a ser paz, amor y alegría en cualquier lugar en el que estés. Es cierto que falta bastante por mejorar, y aunque sentimos y comprendemos que como adolescentes enfrentamos ciertos desafíos, también reconocemos que no todo es fácil ni positivo en nuestra realidad.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7783324613305355
+  },
+  {
+    "fragment": "Todo está en una balanza, todo está en una cincuenta cincuenta ya que o sea muchas personas pueden tener la perspectiva de que todo está súper bien porque su entorno es sano, pero no todos los entornos van a ser sanos entonces existe ya el otro lado que se tiende de pronto a juntar con otras malas personas que ya te pueden arrastrar a malas compañías y así tienden a ser un ambiente pesado, y que ya tiendes a no querer venir al colegio, te puedes aburrir y eso.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.7913817550091246
+  },
+  {
+    "fragment": "¿Este colegio con la nueva constitución tiene unas bases sólidas para construir territorios de paz y que este sea un territorio de paz? Sí, las hay, pero las dificultades que se pueden afrontar en esta base sólida son que primero los estudiantes no prestamos atención porque no es un tema que se nos haga del todo llamativo. Nos parece harto tener que hablar de eso varias veces, pero el colegio sí lo hace, tiene muchas raíces y nos da muchas opciones. Además, el colegio tiene todas las bases para que sea un entorno saludable para los estudiantes, aunque en la práctica no siempre se refleje.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.8149276098134056
+  },
+  {
+    "fragment": "Si yo la verdad siento que sí, o bueno, al menos es que claro, todos somos una comunidad, pero es muy diferente venir en la jornada de la mañana que en la jornada de la tarde. Yo he estudiado toda mi vida en la jornada de la mañana, y cuando tengo clases en la tarde, se siente un cambio súper diferente en comparación con la mañana. En la mañana, el territorio se percibe como muy lindo, muy pasivo y tranquilo, con unas bases muy fuertes de paz que, aunque algunos estudiantes no permitan que esas raíces sigan creciendo, siguen siendo sólidas y no se van a romper.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7930253493552395
+  },
+  {
+    "fragment": "Pues a lo que nos referimos también influye la mentalidad, o sea, no como tal la persona, porque digamos puede ser una persona que tenga muchas dificultades y que haya afrontado, o sea, independientemente de la edad que haya, afrontado, o sea, puede ser un niño de, yo que sé, diez años, y que haya sufrido violencia.",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.7852428340472046
+  },
+  {
+    "fragment": "Pues otra vez yo, pues yo diría que no se puede tener una manera específica en la que uno pueda decir si hago esto todo va a mejorar sino que hay que hacer un análisis de las personas o sea de las tres jornadas porque es mañana, tarde y noche, hacer un análisis de las tres jornadas de las personas que hay en las jornadas y mirar cuáles son las problemáticas, cuáles son sus fuertes mejorar sus fuertes para que sus fuertes derriben esas problemáticas o sea es como un modo muy sistemático.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "13.2 Recomendaciones para mejorar la implementación de la JER"
+    ],
+    "confidence": 0.7853862060615154
+  },
+  {
+    "fragment": "Cómo hallar… a tener espacios largos de como que se evalúen como una calificación, de llegar a tener, a hacer una actividad o una materia que lleve a que ellos tengan claro qué es la paz y cómo fortalecerla día a día",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.7927567160814215
+  },
+  {
+    "fragment": "Es que todos tenemos diferentes contextos, diferentes perspectivas de lo que es la paz, entonces es muy difícil de que yo explicarte a ti como yo pienso que es la paz a como tú la percibas.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7936380250219083
+  },
+  {
+    "fragment": "Y también la manera en la que lo transmitas, o sea, tú como docente nos puedes estar diciendo que la paz es un derecho obligatorio con el que nosotros debemos cumplir, pero si nos lo dices de una manera muy imponente y no de una manera dialogante y asertiva, nosotros nos vamos a sentir obligados y no vamos a querer ser partícipes de eso. Depende del tono y la manera en la que transmitas la información.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8190491362500151
+  },
+  {
+    "fragment": "Yo digo que sí ha habido cambios porque uno aprende como a restaurarse y a restaurar la convivencia con otra persona. Así, digamos, no se sigan hablando ya luego, pero sí aprenden como a perdonar y a sanar lo que pasa en la situación. Entonces yo siento que se ha mejorado bastante la convivencia.",
+    "question": "Question not available",
+    "category": [
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.8018585884973901
+  },
+  {
+    "fragment": "Más que todos los docentes, que son las personas que son los primeros mediadores de la situación. Mientras que orientación, a mi parecer, ya está un poquito más acostumbrada, mientras que los profesores no tanto. Y coordinación, a mi parecer, solo es solucionarlo rápido y ya.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7902614836812666
+  },
+  {
+    "fragment": "Depende del entorno en el que esté, porque si estoy, digamos, en mi salón, que ya les tengo la confianza, sí soy capaz de expresarme. Pero mientras esté en un espacio donde esté todo el colegio, pues no. O también con los profesores, porque nosotros hemos generado lazos fuertes con algunos docentes, entonces también es fácil hablar y expresar nuestras emociones con ellos. Ellos también nos ayudan bastante.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "3.1. Cambios en capacidades socioemocionales"
+    ],
+    "confidence": 0.7983867291277968
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "fragment": "Buenos días, mi nombre es [NOMBRE PERSONA], rector del colegio Tom Adams, llevo un año y cinco meses en el colegio, pero ya previamente sí había hecho trabajos con la Justicia Escolar Restaurativa del Colegio Gabriel Betancourt Mejía, de donde vengo.",
+    "question": "Question not available",
+    "category": [
+      "11.9 Formación docente específica en JER"
+    ],
+    "confidence": 0.7802819527461374
+  },
+  {
+    "fragment": "Si estoy enterado, pero pues en algunos espacios en los que yo he podido interactuar con gente de la OCE, pues o sea, hay un tema y es el tema, digamos, si bien esto deriva de unos esquemas de justicia transicional, le falta fortaleza teórica a la propuesta, entonces para que la gente entienda esto hay que sabérselo explicar y para podérselo explicar hay que tener una propuesta teórica muy fuerte.",
+    "question": "Question not available",
+    "category": [
+      "0.1. Conocimiento de la JER",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7979713216146164
+  },
+  {
+    "fragment": "Ese es el gran vacío que yo le veo a la Justicia Escolar Restaurativa, porque pues sí es homologar un esquema de justicia transicional, pero ¿cómo? Perfecto.",
+    "question": "Question not available",
+    "category": [
+      "11.9 Formación docente específica en JER",
+      "11.3 Presupuesto específico estrategia JER"
+    ],
+    "confidence": 0.7968725979140804
+  },
+  {
+    "fragment": "Bueno, buenos días, mi nombre es [NOMBRE PERSONA], soy coordinador de convivencia del colegio y mi experiencia básicamente ha transcurrido en este colegio, una primera experiencia en el año 86 al 90 como docente de primaria y una segunda experiencia a partir del 99 a la fecha como directivo docente.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.788340308914174
+  },
+  {
+    "fragment": "No, yo creo que había una razón, era el desarrollo de un programa con la Cámara de Comercio que se llamaba el Proyecto Hermes, entonces eso venía desarrollándose desde la CDB inclusive, y acá entonces ahí había la formación de grupos de estudiantes en la solución de conflictos, y me acuerdo que se llamaban grupos de octavo, de noveno, que ayudaban a la resolución de conflictos en las zonas de descanso de estudiantes de primaria, tanto en esta sede como en la CDB. Entonces ahí como que esa es la génesis.",
+    "question": "Question not available",
+    "category": [
+      "0.6. Programas relacionados con la JER",
+      "4.2. Acciones para fortalecer capacidades ciudadanas"
+    ],
+    "confidence": 0.8079525590452457
+  },
+  {
+    "fragment": "Entonces, digamos, vino, se le entrevistó y pues eso generó un impacto grande. Había también una obra de teatro sobre el conflicto armado que se presentó en un tema con la alcaldía y pues eso también trajo como... como muchas miradas sobre el proyecto.",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares"
+    ],
+    "confidence": 0.7766195925046514
+  },
+  {
+    "fragment": "Eso tiene destino Esa plata se ha invertido en cosas para el proyecto de la profe [NOMBRE PERSONA]. Entonces se compraron equipos, computadores, cámaras, proyectores, para hacer las presentaciones y estamos ejecutando la última parte que es la elaboración de un mural alusivo al conflicto armado en Colombia.",
+    "question": "Question not available",
+    "category": [
+      "11.3 Presupuesto específico estrategia JER",
+      "0.6. Programas relacionados con la JER"
+    ],
+    "confidence": 0.7871648929412827
+  },
+  {
+    "fragment": "Bueno, yo creo que hay una muy grande, que es, que esa memoria histórica sobre lo que le pasó a este país y lo que le sigue pasando no se pierda. Es como en esa perspectiva de Santanderina de que el que no conoce su historia está condenado a repetirla. Esa es una cosa, la otra es que, de alguna forma los estudiantes han aprendido a resolver sus problemas, sus conflictos ya de manera un poco más civilizada.",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.800923935981136
+  },
+  {
+    "fragment": "Entonces eso ha sido un logro de eso. Y otro es que también hemos utilizado esas instancias que se han generado de resolución pacífica de conflictos, en donde nosotros le entregamos casos a los estudiantes mediadores para que ellos nos colaboren en la resolución. Entonces hemos tenido problemas grandes que los niños muchachos han aprendido a resolver ellos mismos",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8056541987251818
+  },
+  {
+    "fragment": "Pues como se dijo al comienzo, es una especie de barniz de la propuesta en la institución. Si no hay esa persona y si no hay el proyecto de HERMES, sencillamente es probable que hubiese pasado sin pena ni gloria. No estuviéramos en el colegio en ese encuentro, ya que es una experiencia a nivel distrital y nacional que uno comenta todos los días, con noticias por aquí y por allá.",
+    "question": "Question not available",
+    "category": [
+      "0.6. Programas relacionados con la JER",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7938794174863472
+  },
+  {
+    "fragment": "Bueno, entonces hay una dificultad frente a estas cuestiones restaurativas y es una famosa frase que es la tal paz de santos no existe. Entonces el tema de la impunidad en Colombia pues hay como una disputa social por la impunidad, sí, porque la gente no ha entendido que es un sistema de justicia transicional, sí, y pues eso impacta a los niños, les llega.",
+    "question": "Question not available",
+    "category": [
+      "11.9 Formación docente específica en JER",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7951804459917642
+  },
+  {
+    "fragment": "Permíteme, yo creía en un tema de, estamos haciendo las comisiones de evaluación, yo diseñé un taller, sobre el caso de la agresión de una niña a un niño en el colegio Fontibón, donde la niña lo apuñala y el niño queda paralítico y los puse a reflexionar sobre eso. Esto fue de gran impacto entre los muchachos, ya que generó una reflexión profunda sobre qué hacer con la niña, una niña de 14 años que apuñala a uno de 13. Les pregunté en uno de los cuestionamientos qué harían con la niña, lo que provocó debates entre ellos.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.794555339312585
+  },
+  {
+    "fragment": "Pues la verdad, yo pienso que han sido como un poco mecanicistas, entonces hemos utilizado la restauración, cuando alguien comete una falta usted tiene que hacer una actividad restaurativa, como hacer la cartelera, pedir disculpas públicamente, pero esto se ha visto más como una obligación utilitaria. Nos enfrentamos a otro problema, que es el oportunismo del colombiano, porque cuando uno está en dificultades, promete y jura que va a cambiar, pero apenas pasa la tormenta, vuelve a lo mismo. Esto indica que falta profundizar en el tema y entender realmente el significado de la justicia restaurativa.",
+    "question": "Question not available",
+    "category": [
+      "0.1. Conocimiento de la JER"
+    ],
+    "confidence": 0.776
+  },
+  {
+    "fragment": "No es que el padre tenga en su imaginario que el colegio tenga que entrar a castigar, eso era más notorio hace 20, 30 años. La función del colegio antes era castigar al muchacho, orientarlo y eso era responsabilidad del docente o del colegio. Sin embargo, hoy en día lo que se observa es que el docente no puede castigar ni actuar con el niño a pesar de los errores que haya cometido, ya que está limitado en sus acciones. El docente debe proteger al niño y resolver el problema de otra manera, sin recurrir a sanciones tradicionales, debido a las restricciones que existen actualmente.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo."
+    ],
+    "confidence": 0.780123112103128
+  },
+  {
+    "fragment": "Lo cojo, le llamo la atención, lo grito y resulta que a veces los otros muchachos salen más agresivos, con respuestas mucho más violentas. Es importante que los padres también lleven un discurso que no fomente la agresión con groserías, ya que en ocasiones los niños replican esa actitud, generando un ciclo de comportamiento conflictivo.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7809431093059445
+  },
+  {
+    "fragment": "Porque el colegio de alguna manera tiene una función que genera el respeto de parte de la población, si ellos están viviendo en esa condición uno esperaría que el conflicto fuera mucho más profundo acá, dentro de la institución. Lo que uno ve son agresiones verbales, a veces se pegan, pero no esperaría que eso fuera más, mucho más profundo.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.8014023429431402
+  },
+  {
+    "fragment": "Los niños se detienen en llegar al golpe, agredirse. Ayer atendí a dos niñas de séptimo grado, primas, una vive en el Amparo y la otra en Soacha. Aunque son primas, se miraron mal y se agredieron, mostrando enemistad total. Se quitaron el pelo y hubo una manotada, lo que refleja una situación de violencia entre ellas.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "0.7. Género"
+    ],
+    "confidence": 0.7753157643233557
+  },
+  {
+    "fragment": "Voy a decir algo pero no me lo van a tomar a mal, se supone que el hombre son más básicos, más impulsivos, pero ahora eso está cambiando hacia las niñas que son muy impulsivas. Tuvimos hace poco una pelea entre dos niñas, las trajimos acá y una de ellas explicó que pensaba que la otra la miraba mal, lo que generó una confrontación por presunciones. Ambas terminaron intentando agredirse, aunque en realidad nunca hubo nada concreto, solo malentendidos y suposiciones.",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.778267394499788
+  },
+  {
+    "fragment": "De pronto, como para regularizar los procesos los protocolos, como se aplican subir las alertas y orientar el camino a seguir yo veo que las orientadoras consultan mucho a la oficina de como actuar en estos casos, cada uno de los casos que a veces no tienen claridad que hacer ¿cierto? pero es cuando se desborda, digamos que se cayó el estudiante, reportamos el, el accidente pero ahí que se vaya a activar la ruta de salud o alguna cosa",
+    "question": "Question not available",
+    "category": [
+      "10.4 Establecimiento de acuerdos, normas y reglas",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7887816391721023
+  },
+  {
+    "fragment": "Hemos tenido y seguimos teniendo la vinculación de organismos como la oficina de convivencia y la fiscalía, quienes realizan charlas con los muchachos. Ahorita, el viernes, tenemos una charla con 11 directamente de la fiscalía sobre el manejo de redes sociales y el ciberbullying, donde los funcionarios vienen a hablar con ellos.",
+    "question": "Question not available",
+    "category": [
+      "11.12 Control social del gobierno escolar o veedurías ciudadanas",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.7965229553413545
+  },
+  {
+    "fragment": "pues normalmente es la disculpa con el otro no más y quedan ofendidos incluso los papás, de “cómo así mi hijo haciendo eso” y la restauración yo la he visto más es cuando afecta al bien público por producto de la pelea rompieron un vidrio",
+    "question": "Question not available",
+    "category": [
+      "7.1 Reconstrucción de la confianza en relaciones quebrantadas",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.7790207705059381
+  },
+  {
+    "fragment": "si ahí está la acción, reponer el vidrio y echar el discurso a los demás compañeros con una cartelera sobre cómo corregir, cómo comportarme, cómo evitar eso si ya depende de la honestidad y sinceridad de las personas, pero pues o sea es normalmente",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos",
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo."
+    ],
+    "confidence": 0.7773022248157365
+  },
+  {
+    "fragment": "No, no, pues digamos si se logra porque de todas formas como le digo, este es un entorno el entorno donde vienen los niños y los jóvenes es complejo pero de todas formas esto de alguna forma se ha entendido como una escuela, territorio de paz entonces aquí se les dice aquí por qué tenemos que venir a agredirnos pues realmente digamos la conflictividad no es la que se, se podría esperar",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.8022721459404843
+  },
+  {
+    "fragment": "y pues o sea nosotros no podemos venir a pedir santos donde no los hay, lo que mencionaba aquí el coordinador, sabemos de estudiantes que hurtan cosas, que venden alucinógenos, pero digamos su actuar es marginal frente a al contexto, o sea de todas formas hay niños que dicen no, yo no, no voy a consumir, no voy a robar entonces ahí poquito a poco se impacta",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7739545417220487
+  },
+  {
+    "fragment": "Nosotros y los estudiantes entendemos que el ambiente correcto para poder hacer la labor educativa es aquel en el que haya tranquilidad y paz, donde se disminuyan las agresiones. Sin embargo, conceptualmente, es importante que se tenga internalizado que esto es un derecho. Desde las áreas sociales se realiza un esfuerzo explicando este tipo de conceptos, y si los estudiantes logran internalizarlos, habría que hacer un taller exclusivo sobre la paz como derecho, para reforzar esa idea y su conexión con el ambiente escolar.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "Yo lo veo, sigue siendo un instrumento, usted se porta mal, usted se me para de la silla, usted agrede al otro, yo aquí le bajo la nota, y además es un componente de la evaluación que es el componente actitudinal. Si desarrollamos la cátedra de la paz, no puedo venir a hablar de paz en el salón para que me pongan 5 y luego salir a pegarle a mis compañeros en el patio. Es importante tener en cuenta cómo ha sido mi comportamiento con los otros para establecer mi nota en la cátedra de paz.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.804377624865329
+  },
+  {
+    "fragment": "Eso está ligado a la clase de ciencias políticas y económicas en décimo y once, donde trabaja la profesora [NOMBRE PERSONA]. Ella le da un enfoque de reconocimiento al conflicto, considerando su carácter histórico ligado a la guerra en Colombia. La profesora busca que los estudiantes comprendan cómo estas historias de conflicto han afectado a las víctimas cercanas, incluyendo a sus propias familias, y que puedan expresar esa realidad a través de exposiciones y obras teatrales. En estas actividades, los niños hacen inventarios, traen historias de víctimas y representan sus experiencias, mostrando que el colegio no es ajeno a esa situación, sino que también la ha vivido.",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8342918537999847
+  },
+  {
+    "fragment": "solamente conocimos un caso hace un año, dos años, donde una niña que expresa su tendencia a través del uniforme, entonces un niño compañero de ella fue a confirmar, si efectivamente era niña y le tocó, entonces fue un caso así como de agresión de género de un niño a una niña pero aquí incluso algunas niña asisten con el uniforme de los niños.",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.7820861189943019
+  },
+  {
+    "fragment": "pero si se evidencia, el machismo eso uno lo ve, la agresión del joven a la niña y la niña pues no hace valer su condición y acepta que le peguen o también regresa el golpe o sea, ese a pesar de que es una nueva generación ahí está el machismo todavía",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "sí, si o sea eso sí todavía y la mayoría de las peleas entre… el dominante todavía se imponen muchas de las conflictos entre las niñas, tienen que ver sobre su preferencia, sobre su querer, frente a los niños",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.7892081084518262
+  },
+  {
+    "fragment": "pues en las mallas curriculares de sociales ahí está, si, ahí está en mallas curriculares de sociales como lo comentó el señor rector de sociales y economía y política que son de décimo y once, y cátedra de la pa, partiendo de que hay comités exclusivos para eso esos proyectos entonces si claro.",
+    "question": "Question not available",
+    "category": [
+      "11.12 Control social del gobierno escolar o veedurías ciudadanas",
+      "11.1 Transformaciones al PEI"
+    ],
+    "confidence": 0.7805422940432478
+  },
+  {
+    "fragment": "pero hay una, una percepción de la mayoría de docentes, que eso es como mucha vaina, como mucho trabajo, que mucho, la única que está en esas condiciones de hacerlo es ella, porque no le ha seguido, nadie le ha seguido muy poco. bueno es que eso también es como, como del compromiso de cada docente, entonces yo tengo unos directores de grupo muy comprometidos",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7818828887544566
+  },
+  {
+    "fragment": "frente a la metodología, de la pedagogía y todo eso a través del proyecto, básicamente con ella y yo no sé si haya mejorado, hasta cuando estuve como coordinador académico, es que la metodología no cambia, entonces la enseñanza de las sociales, la geografía, la historia, sigue con la misma metodología que es relatar, relatar hechos pero no se incluye posturas críticas, otras metodologías de trabajo, como se debe manejar la historia y la geografía",
+    "question": "Question not available",
+    "category": [
+      "11.7 Metodologías de enseñanza modificadas",
+      "5.2. Verdad y memoria en planes curriculares"
+    ],
+    "confidence": 0.7951248057968193
+  },
+  {
+    "fragment": "ese ha sido el cuello de la batalla grande en el área de sociales, economía y política, ética, religión, todo eso, debería ser el área punta en los análisis, crear muchachos analíticos, pero no, nos quedamos en la memoria, procesos memorísticos",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "5.1. Conflicto armado"
+    ],
+    "confidence": 0.7838465090722285
+  },
+  {
+    "fragment": "Porque es que el área de sociales es muy complicado su manejo, por ejemplo, para manejar un concepto usted tendría que hacer muchas cosas, como trabajo de campo, encuestas y analizar situaciones reales de los estudiantes y las familias. Uno ve que el maestro no hace eso, lo cual dificulta el trabajo en esta área.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.7906226478786238
+  },
+  {
+    "fragment": "entonces es complicado, además que enseñar ciencias sociales, es muy complicado porque son demasiadas áreas al mismo tiempo, no solo es la historia y la geografía sino que hay que también enseñar economía, política sociología, antropología, psicología, entonces es muy complejo y que pues como hay una cosa que es muy difícil o sea hoy a un muchacho se le está enseñando como me enseñaron a mi las ciencias sociales hace casi 40 años, se le enseña lo mismo parece, que el mundo no hubiera cambiado",
+    "question": "Question not available",
+    "category": [
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.7730982064152924
+  },
+  {
+    "fragment": "lo puntual del proyecto para, eso y cuando uno hacía una izada de bandera toda una preparación para mostrar ¿cierto? pues uno esperaría que si el conflicto nos afecta a todos y son 36 maestros pues 36 maestros de secundaria deberían estar comprometidos con…",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7838440353290257
+  },
+  {
+    "fragment": "si no, pero le digo todo queda centrado en tres personas, ellas son las que han recibido las capacitaciones, las que se preocupan, pero probablemente si hiciéramos una encuesta uno a uno con algunos maestros, no tienen ni idea de la JER, no tienen ni idea, no, pasan allá de la… ah si la justicia Escolar Restaurativa si, chévere pero no.",
+    "question": "Question not available",
+    "category": [
+      "11.9 Formación docente específica en JER",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.8061007943955112
+  },
+  {
+    "fragment": "No veo esos grupos a no ser lo que discutan en la reunión de área, probable que ya estén discutiendo la temática, pero no que salga. Sabemos que hay, por ejemplo, a nivel de ciencias naturales, a nivel del BRAE, a nivel de música, de educación física, núcleos de formación de grupos de docentes que participan tanto afuera en la DSEP en el IDEP, como en universidades y también aquí. Sin embargo, no percibo que exista una reflexión sobre citarse en una reunión extracurricular fuera de clase, esa no es una práctica que observe en este momento.",
+    "question": "Question not available",
+    "category": [
+      "11.10 Uso de mecanismos de participación",
+      "3.2. Acciones para fortalecer capacidades socioemocionales"
+    ],
+    "confidence": 0.7991972422899388
+  },
+  {
+    "fragment": "el problema es que o sea, así como dicen, los árboles no nos dejan ver el bosque es que son demasiadas cosas al mismo tiempo, o sea, o sea, el tiempo no está dando en los colegios y los espacios se están reduciendo",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7753724559873935
+  },
+  {
+    "fragment": "La Secretaría de Educación se tomó las jornadas pedagógicas que antes uno programaba como rector, uno trataba de hacer siete o ocho jornadas pedagógicas al año, para abrir espacios para discutir cosas. La Secretaría monopolizó eso, entonces ahora son cinco, pero esas cinco ya dos no van a ser, se pierde ese espacio para poder hablar de otras cosas.",
+    "question": "Question not available",
+    "category": [
+      "11.3 Presupuesto específico estrategia JER",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7827986424490989
+  },
+  {
+    "fragment": "la de marzo también se perdió entonces son muchas cosas y poco espacio para la reflexión pedagógica es complicado, los tiempos no da, se podrían hacer muchas cosas, si claro pero en qué momentos",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.776357714125121
+  },
+  {
+    "fragment": "¿qué le digo yo? o sea, la escuela tiene límites, o sea, la escuela no puede pretender ser la familia de los estudiantes. Nosotros somos los que los alimentamos y los formamos en cosas que la familia debería encargarse de formar. Parece que la solución sería montar una vivienda aquí, armar un internado, pero eso no es la solución. Existen problemas con las familias disfuncionales, y si pudiera contarle casos de familias, nos darían tres días aquí para relatar los dramas que viven algunos estudiantes, como abandono y despreocupación. La escuela no puede resolver todos esos problemas, y hay que establecer hasta dónde puede llegar.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7867443854985305
+  },
+  {
+    "fragment": "Pues ya se abordó toda la responsabilidad del colegio, de este proyecto. Ahorita acaba de llegar un proyecto que es la escuela emocional, enfocado en las emociones y en promover la buena voluntad entre los maestros, orientadores y coordinadores. Estamos trabajando en ello, a pesar de algunas carencias, y creo que para hacerlo más efectivo también es necesario considerar los factores externos, los factores asociados, como mencionó el señor rector.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo."
+    ],
+    "confidence": 0.8088151647971742
+  },
+  {
+    "fragment": "Claro, la expectativa de los padres es grande y sueltan a los niños y listo, ya les van a dar todo, incluyendo alojamiento, desayuno, almuerzo, transporte y subsidios. Esto no es necesariamente malo, pero requiere de un gobierno responsable que pueda resolver estas necesidades, ya que la población por sí sola no es capaz de hacerlo. Además, hay que considerar al actor fundamental en este proceso, que es el maestro, quien también enfrenta condiciones difíciles y una carga emocional significativa.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7812452988830063
+  }
+]

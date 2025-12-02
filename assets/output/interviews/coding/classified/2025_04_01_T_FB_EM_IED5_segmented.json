@@ -1,0 +1,152 @@
+[
+  {
+    "fragment": "Buenos días, mi nombre es NOMBRE PERSONA y me acuerdo de un día que tuvimos que hacer una actividad en el salón sobre la paz y el respeto. Y ese día se hicieron juegos y todo para aprender de eso. ¿Y estás en qué curso? En 7.1. Perfecto, mándale la pelota. Me llamo NOMBRE PERSONA y pues tal vez pueda ayudar en algún conflicto entre dos compañeros.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.8011622511126529
+  },
+  {
+    "fragment": "Bueno, mi nombre es NOMBRE PERSONA y una actividad que se hizo entre los 11, en la cual hubo una pelea entre unos compañeros y pues se hicieron unas actividades como para convivir y que no se vuelva a hacer eso.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7804129062327364
+  },
+  {
+    "fragment": "Buenos días, buenas tardes, buenas noches. Mi nombre es NOMBRE COMPLETO y yo me acuerdo de una vez de que había peleas y digamos para hacer la paz un compañero salía más temprano que el otro y así no se peleaba. Y esa es una forma de evitar un conflicto y hacer que haya paz.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7994814538389111
+  },
+  {
+    "fragment": "Hola, mi nombre es NOMBRE PERSONA, del grado 10- 03. Lo que he hecho por la paz es intervenir de pronto en conflictos que hay entre compañeras, compañeros, para que no se vuelva a presentar.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7985908786802259
+  },
+  {
+    "fragment": "mi nombre es NOMBRE PERSONA y un día hubo una pelea en mi salón y todos los compañeros nos reunimos para decirle que hablaran y que no hubiera más peleas.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7770467060186381
+  },
+  {
+    "fragment": "Hola, buenos días. Mi nombre es NOMBRE PERSONA, del grado 10, 3. Y lo que he hecho por la paz es no formar un... ¿Qué he hecho por la paz? Es ayudar a las tareas del día a la mujer.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7849562895328762
+  },
+  {
+    "fragment": "Como tal deberíamos... Yo creo que la paz es un deber porque como tal deberíamos vivir, aunque es una redundante, en paz. Porque... no, ¿cómo lo explico bien? Espera, espera, espera, espera. Yo creo que es un deber porque como tal no deberíamos hacerle daño a nadie, nadie se lo merece, nadie merece sufrir algo o pasar por algo. Entonces sería mejor que si todos viviéramos en paz evitaríamos muchos conflictos, la verdad.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8110851882756684
+  },
+  {
+    "fragment": "Sí, es un deber porque no tenemos que hacerle daño a nadie, no debemos hacer lo que no queremos que nos hagan. Entonces siento que sí debería ser un derecho porque todos tenemos derecho a estar tranquilos y en paz con los demás y con uno mismo.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7914887022595738
+  },
+  {
+    "fragment": "Hemos hecho talleres y nos ofrecen poder dialogarlo con la oportunidad de expresarnos. Eso. Cuando se conmemora algo que pasa en todo el mundo, ahí estamos haciendo uso de esa ceremonia, concientizándonos como el Día de la Mujer.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7788509475180054
+  },
+  {
+    "fragment": "1. Cuando hay algún conflicto entre dos personas o amigos, yo ayudo a solucionar el conflicto. En el colegio, constantemente hacen grupos para que se solucionen problemas y se reconcilien, y también cuando pasa un problema, se habla con la orientadora y con ella se soluciona el conflicto. Se han hecho actividades e incluso juegos, y también se han realizado momentos específicos para mejorar la paz y la convivencia.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8278221785841701
+  },
+  {
+    "fragment": "2. En el colegio se han implementado diversas actividades para promover la convivencia entre los estudiantes, como por ejemplo una competencia en equipos con estudiantes mezclados, con el objetivo de convivir mejor y fortalecer la armonía entre los cursos. Estas acciones buscan mejorar las relaciones y crear un ambiente más pacífico y colaborativo en la institución.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.8420291428388009
+  },
+  {
+    "fragment": "En el colegio se han tratado temas de tolerancia internamente en cada salón, esto para fortalecer la sana convivencia. Pues aquí se han hecho actividades por varios conflictos sucedidos y procedimentales por peleas de los estudiantes.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8276084805442484
+  },
+  {
+    "fragment": "La historia de pasados como Colombia, cosas culturales. Información fundamental. ¿Cómo? Información fundamental. Pienso que es clave esa información. Yo pienso que es de la historia de mi país más que todo ya que hemos vivido un conflicto muy grande a pesar de ser un país que no ha habido mucho tiempo, o sea, hemos estado como 200 años apenas.",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "5.1. Conflicto armado"
+    ],
+    "confidence": 0.7899575363930343
+  },
+  {
+    "fragment": "1. El colegio se encarga de reciclar las botellas del almuerzo y también hacer talleres sobre reciclaje. Además, tienen las canecas separadas, de reciclable y no reciclable, para promover la separación adecuada de residuos. En relación con la naturaleza, en el colegio hay una huerta pequeña en la parte de atrás, donde se promueve hacer y cuidar plantas, fomentando el contacto con el medio ambiente y la responsabilidad ecológica. También se realizan clases para promover el autocuidado, integrando aspectos de sostenibilidad y bienestar personal.",
+    "question": "Question not available",
+    "category": [
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "2. El profesor de física promueve el reciclaje de botellas y participa en actividades relacionadas con el cuidado del medio ambiente. Los responsables del área de ambiente nos indican que debemos cuidar nuestros muros verdes y han promovido la recuperación y mantenimiento de la huerta escolar, reforzando la importancia de la conservación y el respeto por la naturaleza en la comunidad educativa.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7881984088728257
+  },
+  {
+    "fragment": "Pues sí, porque ya en cuestión de años anteriores se ha mejorado así como por decirlo convivencia y cómo conviven los estudiantes en sí. Yo opino que sí que también el colegio es un espacio donde se intenta priorizar la buena convivencia, pero eso no quita que de todas maneras haya problemas y malentendidos.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.7993633218013088
+  },
+  {
+    "fragment": "Sí, porque siempre como para desahogarse, como para no pensar en dar la jeta a alguien, sino que no sé. Reflexionar sobre lo que hicieron y pues tal vez poder hablar entre las dos personas que tuvieron el conflicto. Sí, pues en la área de desconexión se usa como un desestres y un despejamiento de la mente. Sí, de acuerdo con él. De acuerdo.",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.7780424900613266
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fragment": "si nos han hablado del conflicto armado en Colombia, las cosas que han pasado durante la historia de Colombia no lo he visto, no lo he visto no lo he visto. lo mismo, en algunas clases nos enseñan sobre el conflicto, paz, etc nos enseñan bastante sobre las guerras en nuestro país nos hacen caer en razón mucho sobre lo que pasa",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7926526940324359
+  },
+  {
+    "fragment": "No solo verbal sino físicamente, ok, listo. ¿Ustedes desde su perspectiva como mujeres en el grado que están, como habitantes del sector y del colegio, cómo o qué harían? ¿Qué creen que debería hacer la escuela y la comunidad en general para defender la paz como derecho? ¿Qué les recomendarían a la escuela o a la gente que está afuera para evitar que estos conflictos se presenten de manera física?",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.82012818369386
+  },
+  {
+    "fragment": "pues es que no pasado ese conflicto pero pasa más que todo con estudiantes pero si cada vez llegan y pues como los ponen a hablar acá pero hay estudiantes que quieren seguir con el problema afuera, pues ya el problema afuera ya el colegio no se hace responsable",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7765351663467317
+  },
+  {
+    "fragment": "sí, pues ahí no se, pues yo siento específicamente a esa clase pues ya crecía como en el colegio como que porque el problema dentro del colegio se concilian y lo hicieron en el colegio ya esa idea del colegio ya.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7731325579525942
+  }
+]

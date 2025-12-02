@@ -1,0 +1,189 @@
+[
+  {
+    "fragment": "Pues yo siento que la paz es muy importante en una comunidad, ya que pues mantiene todo en calma. Y pues eso. Aquí no se da mucho. La verdad, aquí hay muchos conflictos siempre.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.803766268295025
+  },
+  {
+    "fragment": "No, pues yo diría que la paz es relativa porque cada uno tiene un concepto de paz distinto. Por ejemplo, mi concepto de paz como dijo NOMBRE PERSONA, el que está quieto, se deja quieto. Y ya con eso ya no, que no se altera. Y pues ya ahí en el colegio pues lo normal, la sanción y ya.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.804964970651487
+  },
+  {
+    "fragment": "No, yo sí creo que acá hay experiencias relacionadas con paz. Por ejemplo, todas las actividades recreativas a mí me parece que fomentan la paz. Porque uno interactúa con las demás personas. Ya que hay ciertos grupos más pequeños que en vez de interactuar positivamente interactúan negativamente, es otra cosa. Pero eso sí para mí fomenta la paz.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.7921137304995188
+  },
+  {
+    "fragment": "Yo creo que sí, que la paz debería ser un derecho. Ya que nos haría vivir un poco más unidos como sociedad. Porque al final el colegio es una sociedad. Uno prácticamente vive acá la mayoría del tiempo. Entonces me parece que tener como derecho la paz sería un poco mejor para la armonía.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8234964268597256
+  },
+  {
+    "fragment": "Sí, exactamente. Por ejemplo, no hay como ese tipo de charlas. O sea, sí están las actividades de la paz o todo eso, pero no es que... Por ejemplo, si hay un conflicto ya es una sanción de una. Entonces ya sería como que evitar el conflicto por una sanción. No sería que uno lo evita para... Uno lo trata de evitar para no estar mal con el compañero o cualquier cosa así. Si no lo ve como la sanción.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "2.4 Prácticas de restauración y resolución de conflictos"
+    ],
+    "confidence": 0.7886921223980884
+  },
+  {
+    "fragment": "Sí, pero al revés. Digamos que si se pelean, pues no suspenderlos. Es como darle una segunda oportunidad. Ya si lo hacen, ya le ponen la sanción. Pero no suspenderlos o quitarles el grado, como ellos dicen. Cuando hay una pelea acá en el colegio, nunca llega una pelea mayor, por lo que siempre se meten a separar o cosas así. Entonces el conflicto no llega a mayores y de una coordinación se resuelve eso.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7891486038667062
+  },
+  {
+    "fragment": "En cualquier lado. Donde caiga. Donde caiga. Sí, por ejemplo, es eso. Por ejemplo, el coordinador, pues el colegio puede estar en paz, pero ahí por fuera terminan hasta peor los pelados que se agarran. Y pues me parece que es algo como estúpido porque se puede resolver acá. O sea, porque si tú tienes un conflicto y tú hablas de ese conflicto, tú aprendes de ese conflicto y dices como que ya no puedo hacer eso, y después del conflicto se puede ir a la paz. Eso es lo que trato de decir.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7885046707181
+  },
+  {
+    "fragment": "Por ejemplo, el coordinador siempre nos dice que aquí, ¿no? Entonces, nos da la puerta para pelearnos afuera. Pero es que es muy buena mano, es como para… O sea, toca manejar el conflicto interno, ¿no? Porque eso ya es como más de la persona. O sea, es mejor que nosotros llegamos a salir de acá, o sea, nos graduamos de esa vuelta y vamos a seguir siendo la misma.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "11.4 Ajuste organizacional IED"
+    ],
+    "confidence": 0.7804477994753516
+  },
+  {
+    "fragment": "Sí. Bueno, no, antes, la amenaza que era la de hacer la reconciliación, o que había que haberlo hecho. Bueno, pero no. No, pero ahorita no nos ofenden tanto. Por ejemplo, antes, que yo me acuerdo de los conflictos, cuando yo estaba como hace unos tres años, era, por ejemplo, eso, la suspensión y hacer el servicio social.",
+    "question": "Question not available",
+    "category": [
+      "8.1. Reconciliación y no repetición",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.7760007829702091
+  },
+  {
+    "fragment": "También, sí. La semana de la paz también trata sobre eso. Sí, sobre el cuidado propio. Sí, son varios los temas. Como desarrollo personal, como en la parte emocional, lo físico también, trasciende a lo emocional y cosas así.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "3.1. Cambios en capacidades socioemocionales"
+    ],
+    "confidence": 0.7907607983240291
+  },
+  {
+    "fragment": "Pues, esta actividad nos va a funcionar como a conectar la convivencia. Y la paz, y ya, convivir con paz. No, pues, la verdad, lo de justicia restaurativa, esta es la primera vez que yo veo que está haciendo algo. Pero del resto, sí, como dijeron, todo se rige por ame... Todo se rige como en el sentido de... Se rige como en el sentido de amenazas. Y pues, sí, esta es como la primera actividad que yo veo que está reaccionando.",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.8026621218037798
+  },
+  {
+    "fragment": "Como lo dije, el problema del colegio ya viene siendo el conflicto entre estudiantes. Pero, pues, en sí en sí el colegio está cumpliendo con sus funciones, qué es enseñar y en cierto sentido ni educar, porque la educación viene de casa.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.784429362023181
+  },
+  {
+    "fragment": "No, pues yo creo que los colegios sí están hechos para ser un territorio de paz. No tanto así, sino que nos enseña a convivir en sociedad, porque al final cuando uno salga a la calle tiene que aprender a convivir con las personas. En el sentido del trabajo, en todo tipo de cosas uno tiene que convivir con personas. Sí, exactamente. Pero lo que le digo que el colegio en sí hace su función, pero que sea un territorio de paz, yo diría que no, porque eso es una paz falsa.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.803985095184096
+  },
+  {
+    "fragment": "Una paz falsa en el sentido de que, por ejemplo, vamos a ponerlo entre décimos y once. Eso sería una paz falsa, porque no haces una cosa para que no te hagan el pre del grado, por decirlo así. Entonces, pues yo creo que se va a hacer una paz falsa.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7737184601144006
+  },
+  {
+    "fragment": "No sé, yo me siento en el colegio, no siento que sea un territorio de lo contrario, de lo opuesto a la paz. De conflicto, de peleas, de cualquiera de esas cosas. Para mí yo estoy tranquilo y obviamente siempre va a haber un porcentaje mínimo de conflictos, como en todo lado, hasta en los lugares que no son… digamos en una iglesia también debe haber un conflicto y eso para mí ya es normal. 100%.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7873398282469082
+  },
+  {
+    "fragment": "Yo siento que sí, el colegio está creado principalmente para educar primero y ya después como para generar convivencia entre los niños, ¿no? Y eso está como centralizado hacia que no se peleen tanto, que haya así, pero pues no siempre se da.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7887227293366252
+  },
+  {
+    "fragment": "Yo siento que sí es de paz porque pues el colegio nos está preparando para un futuro, para crear la paz afuera y no crear conflictos y caer en la cárcel o algo así.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7909109274856099
+  },
+  {
+    "fragment": "El caso llega a coordinación para solucionar y qué más. Ahí el cortador, el pintador y el pintador hablan con los estudiantes. Se trata de explicar qué pasó con todo eso. A una reflexión, a una sesión. Y ya después los estudiantes pasan a su docente. Y ahí entran ahí.",
+    "question": "Question not available",
+    "category": [
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo.",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7981103785626043
+  },
+  {
+    "fragment": "Que desde el primer... O sea, desde el primer... ¿Cómo se dice? Roce Sí, como desde el primer roce O la primera pequeña circunstancia debo ir a mediar con los estudiantes, intervenir, ser un mediador ¿Qué decías? ¿Tengo algo? ¿Qué debería hacer? ¿Qué pasa? Intervenir ¿Intervenir? ¿Ser un mediador? Si, observar, observar ¿Intervenir? ¿Ser un observador? Ah, pensé que no ser un observador No, nada ¿Qué? ¿No ser un observador? Evitar los conflictos ¿Sí? ¿Evitar conflictos? Sí",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.77445345689445
+  },
+  {
+    "fragment": "El texto describe una situación de conflicto entre varias personas, en la que se discuten detalles sobre quién inició la pelea, quiénes estaban involucrados y las motivaciones detrás del enfrentamiento. Se mencionan expresiones de tensión, como \"¡Hay que salir!\", \"¡Pum, pum, pum!\", y referencias a peleas con cuchillo, además de la confusión sobre quién es la novia de quién y quién fue el agresor. También se observa la presencia de una coordinación para resolver el problema, con llamadas y reuniones, y la participación de diferentes personas que intentan explicar lo ocurrido y buscar una solución.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7949166570626671
+  },
+  {
+    "fragment": "Una actividad. Una sobre el control de emociones, sobre la tolerancia. Yo siento que ya es como más O sea, la experiencia de uno Porque ya cuando sucede ya no quiere que vuelva a pasar, si me entienden O sea, es por la casa, problemas.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "3.1. Cambios en capacidades socioemocionales"
+    ],
+    "confidence": 0.779554140534598
+  }
+]

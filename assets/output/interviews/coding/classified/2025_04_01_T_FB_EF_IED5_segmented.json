@@ -1,0 +1,82 @@
+[
+  {
+    "fragment": "Que en la sala de desconexión podemos venir a hablar con la orientadora para dialogar y no tener que solucionar los problemas a golpes, sino acá se relaja, se tranquiliza, se desconecta de todo y puede venir también a jugar.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7779761936786257
+  },
+  {
+    "fragment": "En el autocuidado y los talleres, pues yo puse que habían y siempre han hecho talleres, digamos, con respecto a algo de la naturaleza o digamos en sí cuidados físicos o hacia otra persona o hacia demás cosas. Entonces casi siempre son talleres y pues fue lo que yo puse.",
+    "question": "Question not available",
+    "category": [
+      "3.1. Cambios en capacidades socioemocionales",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7833742961398548
+  },
+  {
+    "fragment": "Pues que la convivencia se mejora pues en la sala de desconexión dialogando y también con las actividades, bueno, las diferentes actividades y salones que hay, pues con esto uno se distrae para pues los problemas, uno como dice su nombre, se desconecta.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.8056487838423035
+  },
+  {
+    "fragment": "Con el tema del autocuidado hay actividades lúdicas que hacen a veces para las fechas especiales, por ejemplo, en el Día de la Mujer hicieron actividades de todo el tema de la historia, actividades que hacen de vez en cuando. Y sobre el medio ambiente hay un comité ambiental donde ellos recogen las cocas del almuerzo y estas se las llevan a reciclar y pues con eso hacen recogedores y un montón de cosas más. Y también que acá promueven mucho el reciclar.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7814090775205556
+  },
+  {
+    "fragment": "Para mejorar la paz destaca, como dije antes, lo que es la sala de desconexión porque en nuestro grupo pensamos que para que la paz persista entre todos, primero debemos estar en paz con nosotros mismos. Acá lo que se refuerza bastante es lo que es el tema de la salud mental y es algo que siempre se tiene en cuenta.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.8083974279046791
+  },
+  {
+    "fragment": "De memoria pusimos que la verdad, como dijo mi compañera ahorita, las actividades lúdicas sirven para rememorar eventos importantes y para no volverlos a repetir. Y sobre la verdad tenemos lo que es el equipo docente y en sí el equipo del colegio dado que ellos nos han dado herramientas y nos han guiado en caso de equivocarnos poder ir, hablar y buscar una solución sin llegar a afectarnos tanto.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "5.2. Verdad y memoria en planes curriculares"
+    ],
+    "confidence": 0.7945354975872297
+  },
+  {
+    "fragment": "Los colegios o instituciones deberían ser un lugar de paz donde uno va, convive con compañeros y demás gente, y conoce nuevas personas. En teoría, deberían ser espacios donde uno se siente bien y en armonía, promoviendo un ambiente positivo y de respeto mutuo.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.8290137132460587
+  },
+  {
+    "fragment": "Pues digamos, siento que ya no sería mucho de la escuela sino entre sí las personas del conflicto o sea, ellas mismas, o sea, porque el colegio nos da como este espacio que si usted tiene un problema o algo así pues venga acá e intentamos arreglarlo pero digamos si las otras personas tampoco se ayudan en venir acá o intentar arreglar el problema pues ya tampoco el colegio puede forzarlos a que vengan, vengan las tres es también de cada quien.",
+    "question": "Question not available",
+    "category": [
+      "8.4. Escuelas como territorio de paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7923512483319372
+  },
+  {
+    "fragment": "Pues yo pienso que, o sea, en parte sí es territorio de paz pero en parte no porque hay muchos, bueno, personas digamos nuevas que llegan entonces, bueno, o sea, no saben cómo convivir o digamos si… Otra vez, O sea, digamos si llegan personas nuevas y digamos que no les cae muy bien al curso entonces empiezan a colocarle apodos o algo así, eso no es muy bien porque si no sería bien bienvenido.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7827761274878071
+  }
+]

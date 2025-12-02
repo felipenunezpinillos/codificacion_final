@@ -1,0 +1,19 @@
+[
+  {
+    "fragment": "Bueno, este es un artículo que no me acuerdo mucho. Los que pelean no les enseñan cómo no pelear, sino pues les enseñan a responder los problemas verbalmente.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7765505840501944
+  },
+  {
+    "fragment": "¿Una charla a los estudiantes? ¿A los estudiantes pequeños? ¿Por qué no deben tener conflicto? Es una exposición ¿Por qué no deben tener conflicto ¿Por qué no deben tener conflicto a la salida?",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7868376768291744
+  }
+]

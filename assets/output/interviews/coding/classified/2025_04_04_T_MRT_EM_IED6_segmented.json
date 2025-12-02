@@ -1,0 +1,108 @@
+[
+  {
+    "fragment": "Hola, me llamo [Nombre de la persona]. A mí me gustan los juegos y algo que me gusta de este colegio cuando promueve la paz como tal, es que los profesores siempre están vigilándonos y así.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7799691497077075
+  },
+  {
+    "fragment": "Hola, mi nombre es [Nombre de la persona]. Me gusta hacer cualquier tipo de deporte, cualquiera. Y no sé cómo promueven la paz aquí. Depende, hay muchas maneras de promover la paz aquí en este colegio. Por ejemplo, por medio del respeto de la tolerancia, etcétera. Muchísimas cosas.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.8019717330783156
+  },
+  {
+    "fragment": "Mi nombre es [Nombre de la persona]. Me gusta jugar micro. Y una manera de la que promueven la paz es haciendo talleres de violencia y eso, como para que no se peleen y eso.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7802849647136734
+  },
+  {
+    "fragment": "Mi nombre es [Nombre de la persona]. Me gusta el fútbol y el voleibol. Y pues una forma de promover la paz acá es, no sé, pues respetando a los compañeros y que los profesores siempre están pendientes de nosotros.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7920643591886652
+  },
+  {
+    "fragment": "Sí, yo creo que sí, porque, digamos, si nosotros no viviéramos en paz o no fuera un derecho, yo creo que todo el mundo sería como que... como que le haría a todo el mundo lo que quisiera. Digamos, le pegaría y todo eso. Entonces, no.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7785463766283791
+  },
+  {
+    "fragment": "Eh… que ahí está la mesa de diálogo que pues sirve para…  reconciliar y para llegar a un acuerdo. E: Bueno, listo. El amarillo en temas de memoria histórica, ¿cómo se trabaja el tema de memoria histórica? ¿Cual el amarillo este?",
+    "question": "Question not available",
+    "category": [
+      "0.2. Procesos de la JER en la IED",
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo."
+    ],
+    "confidence": 0.7857502571333196
+  },
+  {
+    "fragment": "Con talleres de agua y de la tierra y trayendo plantas para sembrar y que todo esté más bonito. E: Listo, y el rosado, ¿cómo se ayudó a mejorar la convivencia? Con el lema del colegio, educación de calidad para una sana convivencia.",
+    "question": "Question not available",
+    "category": [
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7970585770544139
+  },
+  {
+    "fragment": "¿Cómo así? Vean la respuesta, ¿qué dice? Es cuando dos personas dejan las cosas de lado, se quedaron en paz y volvieron a la normalidad. E: Sí, está bien. ¿Esa es la reconciliación? Esa es la reconciliación.",
+    "question": "Question not available",
+    "category": [
+      "8.1. Reconciliación y no repetición",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.7789936537372504
+  },
+  {
+    "fragment": "¿Por medio de qué? De talleres y nos cuidamos de problemas, conflictos y también se cuida de todo lo natural que hay aquí en el colegio. ¿Y tú? Haciendo talleres de agua, talleres de la tierra y trayendo plantas para sembrar. Súper. Pero es que tú solo pasaste a uno al frente.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7834834613866175
+  },
+  {
+    "fragment": "Por la educación de todos, llegando a acuerdos para mejorar el diálogo. Un ejemplo, cuando llegamos al colegio tienen un lema que dice la educación de calidad para una zona de convivencia.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.823161894070159
+  },
+  {
+    "fragment": "Sí, mesas de diálogo. ¿Mesas de diálogo y qué es eso? Alguien que por favor me explique qué es eso. O sea, que es hoy. Es como... Es como cuando uno, digamos, [Nombre de la persona] y yo tenemos un inconveniente y pues no se puede solucionar con un observador ni nada de eso, sino que tiene que ir ya a una mesa donde están todos los coordinadores de convivencia, profesores relacionados con convivencia, mi mamá y personas de convivencia.",
+    "question": "Question not available",
+    "category": [
+      "10.2 Espacios creados para fomentar el diálogo restaurativo.",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7972731248737428
+  },
+  {
+    "fragment": "¿Qué pasa en la segunda mesa de diálogo? Ya le dirá mi amigo [Nombre de la persona]. Pues en la segunda mesa de diálogo pues llegan también los docentes que estuvieron también en la pelea y si no se llegó a un acuerdo en la primera mesa de diálogo entonces ahí llaman a la rectora y pues le piden que se retire el colegio y que pues consiga otro.",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.785091609999323
+  }
+]

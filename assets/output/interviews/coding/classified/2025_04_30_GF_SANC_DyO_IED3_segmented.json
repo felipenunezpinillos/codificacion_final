@@ -1,0 +1,221 @@
+[
+  {
+    "fragment": "Pues el que más representa es el estudiante-maestro, claro. Y el estudiante-estudiante también hay bastante. Estudiante, el profesor y la Secretaría de Educación.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.772914133915317
+  },
+  {
+    "fragment": "Y que esa violencia intrafamiliar aquí de todas las familias. Pues, y el otro que yo le planteaba es entre docente y estudiante porque nosotros siempre...",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7755296840775804
+  },
+  {
+    "fragment": "Que entre los mismos estudiantes de pronto en primaria sí hay más conflicto entre los chinos. Bueno, en el preescolar el conflicto no es tanto entre los niños porque, pues, en el preescolar son bien pequeños y pues rápido uno lo...",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "0.7. Género"
+    ],
+    "confidence": 0.775914958588192
+  },
+  {
+    "fragment": "O sería docente y comunidad educativa. Pero tiene que incluir a la secretaría Docente y comunidad educativa. No es que seamos muy conflictivos pero tenemos.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7816677944830627
+  },
+  {
+    "fragment": "El ambiente del salón. Hostil. Hostil Hostil, muchos rumores. Hostil, rumores y justo en esa edad es que empiezan que los rumores les afectan para todo, ella dijo, él dijo, no sé qué. Hostil, rumores.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7831806738393704
+  },
+  {
+    "fragment": "Como que en el salón de clases, entonces se siente un ambiente tensionante, pero finalmente todo se desata a la hora del descanso y se citan o se encuentran en el baño. Entonces es bien tensionante en el salón de clases y en el baño todo se detona.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.7964635119921657
+  },
+  {
+    "fragment": "Ellos están acostumbrados a resolver los problemas de manera violenta, tal vez porque en la casa resuelven así y no tienen herramientas emocionales o de diálogo para afrontar las situaciones. La falta de habilidades para comunicarse y resolver conflictos de forma pacífica parece ser una característica aprendida en su entorno familiar, lo que influye en su manera de actuar en otros contextos.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7925592307822277
+  },
+  {
+    "fragment": "El colegio. A no ser que ellos generen el problema acá y cuando salen. Pero ellos vienen de afuera… La comunidad. Porque el papá no entra al colegio, generalmente y amenaza afuera a la estudiante y después viene, el padre o la madre de la amenazada. El profe generalmente trata de mediar. Y es el último que se entera. Se entera cuando está viendo los golpes y le toca meterse.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.7816002576155576
+  },
+  {
+    "fragment": "La culpa y la responsabilidad en situaciones de agresión entre niños. Se suele culpar al profesor, ya que se piensa que él tiene la culpa de que alguien agreda a otro, aunque en realidad siempre hay una percepción de que uno tiene la culpa, por lo menos en nuestro caso, porque un niño le pegó a otro y entonces uno se siente responsable.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.778069538193652
+  },
+  {
+    "fragment": "Porque ellos están acostumbrados a solucionar sus problemas por cuenta propia y a ellos no les gusta hacer partícipes a los docentes para poder tener esa libertad de vulnerarse de esa manera. Y ahí si yo difiero, dígamos. Lo aprenden en casa y muchos de ellos por ejemplo porque lo han manifestado los estudiantes es que mi papá o mi mamá me dice en la casa que no me deje y que también le de, entonces son situaciones de esas.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.773095274496416
+  },
+  {
+    "fragment": "El conflicto es como un proceso, así como ustedes lo explicaron desde el comienzo, digamos que ya van los niños agarrados. Maltratados. Si se van hacia afuera, hay veces no tiene incidencia el colegio entonces resulta que es un tema de fiscalía. ¿Qué maneja el colegio? Aquí lo que dice [Nombre de persona], llega aquí el vídeo que el chisme, entonces se enteran y son citados al comité de convivencia. Ahí están involucrados ya los docentes, los representantes de los estudiantes, el personero y generalmente eso, ¿cómo se resuelve? Si es hacia afuera, termina con la policía o con la fiscalía, y si es hacia adentro, con el comité de convivencia.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8081017274949931
+  },
+  {
+    "fragment": "Lo primero es condicional en la matrícula. Pues yo sí había escuchado de los coordinadores que trataban de hacer ¿cómo se llama? restaurativa escuché eso en el discurso, pero que lo haya visto no me quedó tan claro la verdad. Pues eso se hace en preescolar se hace pues con abracitos, pidiéndole disculpas allá todo es más lindo. Los de once abrazarse. Un abrazo de la muerte. Si se agredieron tienen que darse un abrazo, quédense ahí un buen ratito.",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.8032012397722487
+  },
+  {
+    "fragment": "Es que nosotros tuvimos un taller, creo que fue en la mañana, sobre la justicia, donde nos dieron un montón de libros que tuvimos que leer y analizar. Para que un conflicto se solucione de manera adecuada, ambas partes deben tranquilizarse y entender que cada uno cometió una falta. Si los dos no comprenden eso, es difícil hablar de justicia, porque pasa como en el ejemplo del gobierno, que aceptó haber cometido actos de violencia, pero también los grupos armados tuvieron que aceptar que hicieron algunas cosas. Por lo tanto, ambas partes deben reconocer sus errores y estar dispuestas a reparar esas faltas, aunque a veces una herida emocional es difícil de sanar rápidamente.",
+    "question": "Question not available",
+    "category": [
+      "10.1 Estrategias para el reconocimiento del daño y su importancia en los procesos de restauración.",
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo."
+    ],
+    "confidence": 0.8068379108865632
+  },
+  {
+    "fragment": "Exacto, entonces qué pasa en los colegios, que no tenemos tiempo suficiente para prestarle atención a esa restauración de ese daño emocional o físico, porque lo que dice la profe, estamos corriendo siempre con un montón. No solamente son ellas dos, porque en el colegio pueden haber muchos más casos similares o incluso mucho más difíciles.",
+    "question": "Question not available",
+    "category": [
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo.",
+      "2.6 Integración de la comunidad educativa en procesos de restauración"
+    ],
+    "confidence": 0.7897942518363982
+  },
+  {
+    "fragment": "Pero digamos que aquí también se establece un diálogo con los padres ¿no? con los padres, con los chicos y pues ahí se ven las intencionalidades si realmente yo veo como una intención de cambio pues el colegio hace como un compromiso y demás, pero si ya no… Se ve como eso hay reiterativos. Se ve como también ese historial del estudiante.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7956880822045658
+  },
+  {
+    "fragment": "Es que depende. Depende del conflicto. De la situación, depende de la postura. Ahí está por ejemplo lo que estaba diciendo la profe ahorita de la aceptación de cada uno en los grupos, de la responsabilidad porque para ellos es muy difícil aceptar esas responsabilidades y hacerse conscientes del daño que le están haciendo a los demás compañeros con una sola palabra. Como todo el mundo, para uno es muy difícil aceptar que uno cometió una falta, la que sea.",
+    "question": "Question not available",
+    "category": [
+      "2.2 Actitudes hacia la restauración y la reconciliación",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7956279617543706
+  },
+  {
+    "fragment": "O sea, está el proceso… Ahí también es un poco difícil uno a veces aceptar que la experiencia que le da a uno es ser docente y los casos que pasan, es que debe estar uno más presente y es difícil que el docente reconozca que debe estar ahí presente. Pero es que a veces estando presente ocurre. Pero a veces uno… Por ejemplo a nosotros nos sucede en el caso es que uno manda muchos niños al baño, entonces a veces en el baño, donde uno no está dentro pasan cosas, entonces ahora uno ¿qué hace? Se va con todos los estudiantes en preescolar por lo menos se va con todos los estudiantes y está ahí mirando y está ahí pendiente, pendiente, pendiente uno le toca eso.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "11.9 Formación docente específica en JER"
+    ],
+    "confidence": 0.7824101613867134
+  },
+  {
+    "fragment": "Como la lección con los problemas. Es que los problemas se pueden dar en cualquier lugar. Es que hacemos presencia, creo que suena mal, suena como si no la hiciéramos y si la hacemos. Si la hacemos, no todo el mundo, por eso es que pasan cosas, por ejemplo en la hora de recreo, en la hora de descanso, uno se da cuenta de que sucedió el problema allá donde no estaba el profesor vigilando. Pienso que eso es un problema porque yo pago, por ejemplo, mi pasaje de Transmilenio, porque quiero hacer un cambio, y cuando llego al portal, todo el mundo se pasa, están quitando, pero igual se están pasando. Entonces, de qué me sirve que yo esté acá con [Nombre de persona] y [Nombre de persona] haciendo un montón de cosas por el celular. Uno piensa que lo que debería hacerse realmente es lo que hacen, por ejemplo, el profe [Nombre de persona] y la profe [Nombre de persona], que todos los días están recordando por la emisora si no es tuyo, le pertenece a alguien más. Eso ayuda mucho, o sea, prevenir ese tipo de cosas. En el colegio Juancho, lo que ha funcionado más que la justicia restaurativa es la prevención. Hace poco tuvimos un caso en donde unos estudiantes de décimo en la mañana hicieron un video burlándose de otro décimo, pero los de la tarde pensaron que era contra ellos, estaban súper ardidos, y los de once se unieron porque son parceros y solidaridad. Esto también es un tema de redes sociales, si están muy ardidos, pero antes de que pasara algo, se hizo un taller con los décimos y los once de la tarde sobre el uso de redes sociales. Yo estuve en ese taller, en hora libre, y los chicos entendieron que no era para ellos, que hay formas de actuar antes de que el conflicto suba. Aquí en Juancho, la prevención funciona mucho, y creo que el manejo de emociones a los chicos les falta mucho, es importante trabajarlo porque les cuesta reconocer sus emociones. Es muy difícil para ellos, muy complicado.",
+    "question": "Question not available",
+    "category": [
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo",
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo."
+    ],
+    "confidence": 0.80976211331314
+  },
+  {
+    "fragment": "Pues es el proyecto de Juanchito y Juanchita, que consiste en recordarles constantemente a ellos acciones que pueden ser positivas para el contexto. Este proyecto busca promover comportamientos adecuados y responsables en los estudiantes, reforzando la importancia de las buenas conductas en la comunidad escolar.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7944965795122889
+  },
+  {
+    "fragment": "Hay trabajo, se intenta. Yo creo que hay profes que se meten, yo creo que todos llegamos al salón para tratar de hacer un cambio en ello, que ya se haga. Que se logre depende de muchos factores pero la disposición sí existe.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7767975511810495
+  },
+  {
+    "fragment": "Bueno, eso sí ha ayudado porque ya por ejemplo los chicos ya se dialogan más como entre los colegios y ya no tiene como, rivales. Pues yo tenía entendido que antes el colegio tenía una realidad mucho más compleja que había mucha más violencia, que había bandas que había pandillas",
+    "question": "Question not available",
+    "category": [
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7801867476829832
+  },
+  {
+    "fragment": "Siempre había, ya creo que no muchos, pero los chicos participan. Pues por ejemplo nosotros nos sirvió… Pero sí ha mermado bastante. Fuimos a una tulpa al colegio a la Alemania unificada y como que los niños conocieron otro colegio, se integraron con otros niños. Esas cosas son positivas. Creo que pasaba, un estudiante de los demás colegios jarabes. Ya para el cierre hubo actos culturales, hubo presentaciones, hubo integración entre colegios.",
+    "question": "Question not available",
+    "category": [
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo.",
+      "2.6 Integración de la comunidad educativa en procesos de restauración"
+    ],
+    "confidence": 0.7843716642666458
+  },
+  {
+    "fragment": "Pues digamos que, no sé, no sé, digamos algunas políticas del gobierno tienen que ver con acabar con la educación pública, los colegios distritales entonces o los cambios donde no hay infraestructura o jornada única o algo así y empiezan a devolver docentes a la secretaría de educación. Además, las políticas parecen afectar la calidad y la estructura del sistema educativo, generando incertidumbre y dificultades en la gestión escolar.",
+    "question": "Question not available",
+    "category": [
+      "13.2 Recomendaciones para mejorar la implementación de la JER",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7915896872835924
+  },
+  {
+    "fragment": "Que ellos tuvieran un trabajo con prestaciones sociales normales, de trabajo, y no tendrían que regalarles un refrigerio. Pienso que la figura de un padre responsable con sus hijos es fundamental, ya que también está la parte en la que el Estado proporciona ciertos recursos, por ejemplo, a veces una hoja no se puede traer porque el colegio la tiene que dar, como un borrador. En ese sentido, es importante que los padres asuman esa responsabilidad, como llevar 10 borradores al inicio del año, aunque estos se pierdan en unas semanas, y también que los padres sean conscientes de su rol en la co-responsabilidad de la educación y el bienestar de sus hijos.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7729331424748609
+  },
+  {
+    "fragment": "Sí, algo así, entonces como incentivos a los profesores de pertenecer a esos talleres yo por ejemplo fui, y pues tampoco esperaba que me hagan nada, no, pero no tenía como el tiempo y me tocaba estar corriendo, ir al centro de memoria y luego correr al colegio. Además, ¿quién no termina siendo? Pues nadie, nadie termina siendo más que esos talleres aburridos. También es como pedirle a la SED que revisen esos contextos y, a partir de ello, empiecen a trabajar en esas realidades, pero realmente lo que envían en los talleres está totalmente fuera, fuera de los contextos que nosotros tenemos que vivir, una realidad totalmente diferente. Entonces, salgan del escritorio y vengan un poquito más a conocer.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7841696443220392
+  }
+]

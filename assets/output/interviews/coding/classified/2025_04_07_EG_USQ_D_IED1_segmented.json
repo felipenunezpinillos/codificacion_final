@@ -1,0 +1,205 @@
+[
+  {
+    "fragment": "Mi nombre es [Nombre de persona], soy coordinadora de la jornada tarde. Este es mi tercer año en el colegio y estoy a cargo de la coordinación académica y convivencial de toda la sección de básica secundaria y media técnica.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED"
+    ],
+    "confidence": 0.7754578351528001
+  },
+  {
+    "fragment": "Pues es un proyecto de SED que busca fortalecer el desarrollo de la parte emocional de los estudiantes y fortalecer también las habilidades blandas del estudiante enfocadas hacia, no solamente privilegiar la parte del conocimiento, sino la parte relacional, el reconocernos como seres humanos, el desarrollar la empatía y ser capaces de transformar situaciones en la escuela, pues todo enfocado hacia otros mundos posibles, mucho más amigables para todos.",
+    "question": "Question not available",
+    "category": [
+      "3.1. Cambios en capacidades socioemocionales"
+    ],
+    "confidence": 0.776
+  },
+  {
+    "fragment": "Bueno, creo que la JER es un programa que inició para que los niños entendieran que hay una manera diferente de enfrentar las dificultades y que hay una forma de encontrarse para hablar, dialogar acerca de una dificultad y restaurarlo más que ser punitivo, o sea, quitarle la parte punitiva como lo que voy a hacer en este momento.",
+    "question": "Question not available",
+    "category": [
+      "0.6. Programas relacionados con la JER",
+      "0.1. Conocimiento de la JER"
+    ],
+    "confidence": 0.8205032584221181
+  },
+  {
+    "fragment": "No, yo no alcancé a estar, yo no estuve. Pues cuando yo llegué ya estaba el proyecto, pero sí, yo tengo conocimiento de cómo surge la experiencia de diálogos en el Unión, que surge precisamente en pandemia, en la época de pandemia, y buscaba crear estrategias donde los estudiantes tuvieran precisamente voz frente a las diferentes situaciones que están afectando su cotidianidad, no solamente en la parte escolar, sino en el contexto general.",
+    "question": "Question not available",
+    "category": [
+      "0.4. COVID 19",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7990522768840594
+  },
+  {
+    "fragment": "Bueno, yo pues estuve presente en la experiencia, fue una muy buena estrategia para escuchar a los chicos, era necesario escucharlos, realmente se vinculó todo el colegio, hubo diferentes tipos de vinculación, desde los niños chiquitos hicieron diálogos, juegos, hacían videos con la familia, se trató de integrar a la familia, tratar de mitigar un poquito toda esa ansiedad que se vivía en ese momento y toda esa angustia.",
+    "question": "Question not available",
+    "category": [
+      "11.7 Metodologías de enseñanza modificadas",
+      "11.12 Control social del gobierno escolar o veedurías ciudadanas"
+    ],
+    "confidence": 0.7914504547435558
+  },
+  {
+    "fragment": "Pues yo resalto que se buscaron varias estrategias para darle voz a los que no siempre teníamos, que en este caso eran los niños y poderles decir que ellos podían verbalizar o dar a conocer sus propias experiencias desde el dolor, de lo que ellos les pasaba, de situaciones de dolor.",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7991108079883233
+  },
+  {
+    "fragment": "Bueno, pues como decía [Nombre de persona], retos, muchos. Efectos de diálogos en el Unión, también. Muchos positivos, otros de pronto no tan positivos, pero sí se logró que los niños en este colegio hablan y eso creo que es una consecuencia, aún después de la pandemia, que los niños son capaces de venir a la rectoría y decir, mire, es que me está pasando esto. O ir a coordinación, o ir a orientación y poder hablar, es una situación, no necesariamente como consecuencia, pero sí eso lo alimentó muchísimo y le permitió ver a los que estaban callados que sí se puede seguir hablando.",
+    "question": "Question not available",
+    "category": [
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.8038290028320435
+  },
+  {
+    "fragment": "Nosotros tenemos Hermes, todavía estamos trabajando Hermes, en este momento no tan fuerte, pero hubo una época que Hermes era muy bien ubicada, porque la gente la mandaban no para los maestros, sino para los niños. Entonces había salones que trabajaban resolución pacífica de conflictos con Hermes y eso nos ayudaba mucho en los colegios. Ahora le dan a los maestros las herramientas, pero no es lo mismo, o sea, nunca va a ser lo mismo que el trabajo directo con los estudiantes.",
+    "question": "Question not available",
+    "category": [
+      "0.6. Programas relacionados con la JER",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7960253270418437
+  },
+  {
+    "fragment": "Pues es que primero falta como afianzar ese concepto de restauración, porque todos no manejamos la misma idea de restauración. Algunos entendemos, cuando hablamos de los procesos de restablecimiento y restauración, los chicos en convivencia específicamente, desde el comité de convivencia o la coordinación de convivencia, es algo nuevo. Antes no se hablaba de que uno debía restaurar a otra persona que había sido de alguna manera agredida o había sido maltratada, entonces como que existía en el imaginario de los chicos que el manual de convivencia y la norma era únicamente punitiva, etc.",
+    "question": "Question not available",
+    "category": [
+      "9.2 Acciones o procesos desarrollados mediante las experiencias para  implementar el enfoque restaurativo en la convivencia escolar.",
+      "2.1 Reconocimiento del enfoque restaurativo para la reconciliación"
+    ],
+    "confidence": 0.8233558212883858
+  },
+  {
+    "fragment": "Sí, yo creo que yo estoy de acuerdo con [Nombre de persona], porque el término de restaurativo no está bien, digámoslo, votar, eso es como lo pusieron ahí, en la justicia es con la restaurativa, pero la verdad, no ha habido un manual, tenemos unos manuales punitivos, totalmente punitivos, un debido proceso, acabó de decir [Nombre de persona], un debido proceso, pero cuando un chico rompe un vidrio, cuando lo paga está restaurando, o sea que si teníamos, si un chico se robó un teléfono, entréguelo, pida perdón, páguelo, si fue que lo rompió, lo pagó, pero a veces se entiende la JER como dejar pasar, y eso es lo que es peligroso en esta justicia escolar, no es llegar al, usted llegó tomado, se va al colegio expulsado, si, nada de eso, usted hizo tal cosa, queda tres días por fuera del colegio, esas sanciones no funcionan, funcionaban en un tiempo, pero ahorita no funcionan, o no están. Pero sí, la persona tiene que aprender a que yo hago un daño, y si yo le hice un daño a alguien, por lo menos tengo que ir allá y hablar con él, poner la cara, pedirle disculpas, hacer todo eso, porque ¿cuál es el problema?, que se nos está quedando en tramitología, digamos, las cosas, entonces, no, como es de JER, entonces venga, hagamos un acta, y digamos tal cosa, entonces yo, usted no lo vuelva a hacer, no, no lo vuelvo a hacer, ah, bueno, mijito, ¿se siente bien? Sí, ah, bueno.",
+    "question": "Question not available",
+    "category": [
+      "2.1 Reconocimiento del enfoque restaurativo para la reconciliación",
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo."
+    ],
+    "confidence": 0.8051573845045802
+  },
+  {
+    "fragment": "\"Sí, porque mire, si uno hace un manual de convivencia centrado, ¿en qué lo centra?, si yo lo puedo centrar en la JER, todo lo que son mis obligaciones, mis conocimientos, mis deberes, pero también mis derechos tienen que cambiar. Tienen que cambiar a una conciencia.\"",
+    "question": "Question not available",
+    "category": [
+      "11.2 Transformaciones al manual de convivencia",
+      "0.1. Conocimiento de la JER"
+    ],
+    "confidence": 0.8001085883440477
+  },
+  {
+    "fragment": "Un pacto. Donde los niños... ¿Ustedes a qué se comprometen? ¿A qué se comprometen con los uniformes? ¿A llevarlo o no llevarlo? Nosotros hicimos, dentro de todo esto de la JER, un ejercicio que a mí me parece muy bueno, es un ejercicio dentro de esa estrategia. Y fue que nosotros hace tres años, más o menos, tuvimos un problema por el uniforme, que se usara el uniforme, que si los niños que vienen, que son niños en proceso de transformación o niñas en proceso de transformación, que sí pueden usar el uniforme de niño o el uniforme de la niña.",
+    "question": "Question not available",
+    "category": [
+      "13.2 Recomendaciones para mejorar la implementación de la JER",
+      "13.4. Recomendaciones para mejorar los resultados de la JER"
+    ],
+    "confidence": 0.7890717751036612
+  },
+  {
+    "fragment": "Exacto. Pero, ¿qué es lo que pasa? Que se hizo ese acuerdo, pues ya se fue. Entonces, esto tiene que ser, el manual de convivencia, sí se tiene que cambiar porque es que los que empezaron, los que hicimos el primer manual de convivencia en este colegio, ya se graduaron hace mil años y ya hicieron, debe haber unos acuerdos anuales. Entonces vamos a ver, estos chicos hoy piensan diferente. Entonces, ¿qué es lo importante del pacto? ¿Dónde lo vamos a erradicar? Nosotros como adultos tenemos que pensarlo y llevarlo a los chicos y bueno.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7816315361948074
+  },
+  {
+    "fragment": "Mucha resistencia. Sí, es que es difícil. Además, porque particularmente estamos en un proceso de resignificación de nuestro proyecto educativo institucional. Entonces, son demasiadas las aristas que uno empieza a encontrarse, cosas que debe tener en cuenta y a veces se quedan por fuera muchas, porque también hay que empezar a darle peso, a priorizar. Y a veces quisiéramos estar todos como en la misma sintonía, pero si es difícil para uno como equipo que todos estemos en sintonía, porque lo que a [Nombre de persona] le parece más importante, de pronto [Nombre de persona] dice, para mí eso no es tan relevante, para mí sería esto.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "13.3 Retos y dificultades"
+    ],
+    "confidence": 0.7898119729686074
+  },
+  {
+    "fragment": "Sí y no. Yo pienso, perdón que me tome la palabra, pero es que, mire, nos han metido un montón de rutas que ahora ni la SED las tiene claras. Y entonces uno llama y dice, [Nombre de persona] le pegó a [Nombre de persona] y la mamá de [Nombre de persona] viene furiosa. ¿Activó la ruta? ¿Sí? ¿Activar la ruta? Perdóneme, no sirve de nada.",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "La escuela tiene que cambiar, con esto la escuela tiene que cambiar. O sea, la rigurosidad académica se acabó porque o tú le pones atención a si [Nombre de persona] le está doliendo, papito, o tú lo enseñas a él aguante, sea resiliente, sea no sé cómo decir, fuerte.",
+    "question": "Question not available",
+    "category": [
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo.",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.7849750182926225
+  },
+  {
+    "fragment": "Estamos llegando a otro extremo, que todo tiene que ser socioemocional, que si usted le hizo, que si usted hace espacios socioemocionales, que si les dice que... Y uno encuentra a uno en reuniones estas, que hay gente que le voltea y le dice a uno pero es que tú no debías de haberle hablado así. ¿Sí? Entonces hasta uno pierde su esencia y los roles están desapareciendo. Y es que yo, en ese mismo orden, yo creo que volvemos al principio de lo que yo dije, si no se hace un compromiso con toda la comunidad es muy complicado poder hablar de JER. Porque si nosotros como docentes, que somos los primeros respondientes dentro de la institución, por el estudiante, un chico que llegue tarde y se le diga simplemente que el estudiante dice, profe, llegué tarde porque me cogió el sueño, y no haya una restauración para ello, primero va a ser mal, segundo, si hay una restauración, inmediatamente viene el acudiente a decir por qué y a cuestionar justamente lo que sucede.",
+    "question": "Question not available",
+    "category": [
+      "6.1 Integración del enfoque restaurativo en las experiencias pedagógicas.",
+      "9.1 Percepción de la convivencia escolar tras implementar  las experiencias pedagógicas con enfoque restaurativo."
+    ],
+    "confidence": 0.811852067463135
+  },
+  {
+    "fragment": "Bueno... Desde que el programa y antes que estaba siempre en el colegio hemos hablado de la corresponsabilidad de las pautas de crianza desde la casa, ¿no? Que vengan al colegio y se pongan en práctica. Sin embargo, lo que dice nuestra rectora, a veces vemos esa barrera que hay entre la norma que queremos no exigir, ni imponer, sino motivar en el colegio a partir de los derechos de los niños.",
+    "question": "Question not available",
+    "category": [
+      "10.4 Establecimiento de acuerdos, normas y reglas",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.796324650772483
+  },
+  {
+    "fragment": "Ha habido una mutación de familias. Yo llevo aquí en el colegio 17 años, y cuando llegué, la mayoría de los niños provenían de familias muy claras, con papá, mamá e hijos, además había niños que vivían con abuelos o en situaciones similares. Todo esto refleja una estructura familiar tradicional que, con el tiempo, ha cambiado significativamente.",
+    "question": "Question not available",
+    "category": [
+      "0.4. COVID 19"
+    ],
+    "confidence": 0.7738774294280082
+  },
+  {
+    "fragment": "No sé si lo hablarían antes que yo estuviera acá, pero yo siempre he tenido una inquietud frente al manual de convivencia. El manual de convivencia debe ser para las instituciones públicas como la nuestra, con unos criterios unificados. ¿Por qué se nos da la libertad de que cada uno, y nos exigen a veces, que el manual de convivencia se convierta en un código penal donde cabe todo? Pero es que en la escuela lo penal no es lo principal, aquí lo principal es la convivencia y cómo solucionar conflictos en una mesa de diálogo de concertación, de aporte de la familia y de la escuela. Entonces, esos manuales de convivencia que tenemos, adolecen de mucho de lo que el penal quiere, pero que exigen en algunos momentos.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8040302110920444
+  },
+  {
+    "fragment": "Yo siempre he pensado que la capacitación al docente hace falta, pero no la capacitación que está dando, o sea, ha sido importantísimo, no la voy a descartar. Sin embargo, las capacitaciones por ejemplo de JER, si la SED entendiera y definiera claramente y en las semanas de desarrollo institucional, cogiera unos días para llevar a docentes, a todos los docentes de Bogotá de a poquitos, porque el problema es lo masivo. Si son treinta mil maestros sentados ahí mirando, no van a aprender, se pierden. Por eso, si se hicieran talleres por localidad, talleres, de alguna u otra forma, y los maestros entendieran, habría una mejor comprensión.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "4.2. Acciones para fortalecer capacidades ciudadanas"
+    ],
+    "confidence": 0.8096900888761943
+  },
+  {
+    "fragment": "Se ha ido diluyendo, digamos, cuando empezó Educapaz, nos mandaron a los colegios gente muy pila, muy pila. Y trabajaban, [Nombre de persona], estaba en la tarde conmigo y teníamos a [Nombre de persona], que lo vi ahí trabajar con ellos, y a [Nombre de persona], y enfrentando eso foros, dinamizando cosas, haciendo trabajo dentro del colegio, o sea, era... pero lo que le digo, venían a trabajar con los chicos. No es, venga, que aquí nos reunimos con la rectora, la rectora está sobredimensionada ya, de tanto saber, y de tanto firmar actas. Entonces se pierden muchas cosas, creo que se pierden muchas cosas que podrían mejorar el trabajo directamente con los estudiantes.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7940493468961559
+  },
+  {
+    "fragment": "Es que eso viene de hace mucho tiempo, un deseo de nosotros, cada año reformando un manual, ajustándolo, pero si hubiese algo, como dicen, estandarizado, que pudiésemos todos masticarlo, sería ideal. Pero hay unos que dicen, no, pero porque tiene. No, pero es que no es extenso, es algo que reúna lo esencial para poder trabajar con la convivencia. Y del día a día. Eso es.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "10.4 Establecimiento de acuerdos, normas y reglas"
+    ],
+    "confidence": 0.7776354117417842
+  }
+]

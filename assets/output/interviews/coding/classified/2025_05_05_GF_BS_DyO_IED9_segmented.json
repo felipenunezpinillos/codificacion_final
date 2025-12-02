@@ -1,0 +1,276 @@
+[
+  {
+    "fragment": "Bueno, mi nombre es NOMBRE PERSONA, y terminé aquí porque no había más opciones. En mi época, la universidad para estrato uno o dos era muy difícil el acceso, y lo único público que había era la Pedagógica, la Distrital y la Nacional. No pasé a la Nacional, por lo que terminé en la docencia, aunque inicialmente quería ser más lingüista que docente. Sin embargo, en el trayecto me fui organizando y adquiriendo ciertos gustos, y creo que la docencia fue un gusto que fui desarrollando en la profesión.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "Bueno, entonces ahora si quieren pasamos, NOMBRE PERSONA les dijo que vamos a tener tres momentos, ¿no? Vamos a tener un primer momento que es dedicado a que ustedes nos recreen lo del monte y analicemos un conflicto que en concepto de ustedes sea como muy común en este colegio, que se venga dando, que sea como eso que uno dice otra vez, otra vez, ¿No? Como muy recurrente, ¿Cómo lo vamos a trabajar? Desde, digamos que la investigación de la evaluación tiene como su marco teórico, por supuesto, ¿cierto? Y para analizar el conflicto estamos siguiendo un autor que se llama Labov y Labov plantea que los conflictos para efectos del análisis tienen cinco momentos, un momento que es la síntesis que equivaldría al trabajo nuestro de pensar ¿Cuál es el conflicto que vamos a escoger y por qué? Aquí hoy, otro segundo momento que es el contexto, que es ya pensar en el contexto. ¿Cómo es que es el ambiente en el colegio? ¿Qué era lo que estaba pasando? Todo inventado pero a partir de la experiencia real del colegio, ¿Quiénes intervinieron? ¿De qué cursos eran? Si había diferencias frente al conflicto en términos de género.",
+    "question": "Question not available",
+    "category": [
+      "0.3. Contexto de la IED"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "1. Todo en esta comunidad se percibe como bullying, ya que los chicos consideran que cualquier acción o conflicto cotidiano puede ser etiquetado como acoso escolar. El término de acoso escolar no está bien definido ni para los padres, ni para los estudiantes, ni siquiera para los maestros, lo que genera confusión sobre qué situaciones realmente constituyen bullying. Muchas veces, una acción normal, como perder la cartuchera o un conflicto pasajero, se interpreta como bullying, aunque en realidad sean incidentes aislados o mal manejados.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.7986481345979727
+  },
+  {
+    "fragment": "2. Aunque existen casos de acoso escolar sistemático y claramente identificables, la mayoría de las denuncias que se hacen en esta comunidad corresponden a conflictos ocasionales o mal gestionados. La diferencia radica en que algunos comportamientos son claramente de acoso, pero muchos otros son simplemente conflictos normales que, por la falta de una definición precisa y una interpretación flexible, terminan siendo etiquetados como bullying. Esto genera una percepción distorsionada de la realidad escolar y social en el contexto.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7920594765011088
+  },
+  {
+    "fragment": "3. La confusión sobre qué constituye bullying y qué no, junto con la tendencia a etiquetar cualquier conflicto como acoso escolar, dificulta la intervención adecuada y la comprensión real de la problemática. La percepción generalizada es que todo conflicto o acción cotidiana puede ser considerado bullying, lo que puede llevar a una sobrecarga en los recursos y en las respuestas institucionales, además de desvalorizar los casos verdaderamente graves de acoso sistemático.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "8.3. Cambios en el ambiente escolar"
+    ],
+    "confidence": 0.7925595424792546
+  },
+  {
+    "fragment": "Sí, no, y por ser la bonita, entonces ese es el papel siempre de la bonita, ser la bonita para todos. Cuando llega la niña que no es la bonita, sino que quiere bajarla de allá, esa envidia y esa intolerancia surgen porque alguien diferente a mí puede llamar la atención en los compañeros. Esto refleja una situación de reconocimiento del otro y de uno mismo, donde la necesidad de proyectarse y ser reconocido por el entorno es fundamental. Además, este fenómeno no solo sucede con las niñas, sino también con los niños, quienes suelen buscar reconocimiento a través de diferentes formas, como ser el gamin o el guacho, en un contexto donde los estereotipos están muy marcados.",
+    "question": "Question not available",
+    "category": [
+      "0.7. Género"
+    ],
+    "confidence": 0.7784088934650315
+  },
+  {
+    "fragment": "1. El manejo de la ira en los chicos es muy deficiente, ya que tienen dificultades para gestionar sus emociones y ante cualquier conflicto tienden a resolverlo de manera violenta. Esto se refleja en su tendencia a amedrentar, intimidar y resolver los problemas a través de la violencia, lo cual también puede estar relacionado con su forma de reconocimiento social y su rol en el grupo.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "0.7. Género"
+    ],
+    "confidence": 0.783958128663104
+  },
+  {
+    "fragment": "2. En el juego del reconocimiento, algunos estudiantes adoptan una postura de autoridad, siendo la \"parada\" o la figura frentera, ya que ese también es un mecanismo para mostrarse y afirmar su identidad. Este comportamiento es una estrategia para que nadie los desafíe o los menosprecie, reforzando su rol de protección y dominio.",
+    "question": "Question not available",
+    "category": [
+      "2.2 Actitudes hacia la restauración y la reconciliación",
+      "4.1. Cambios en capacidades ciudadanas"
+    ],
+    "confidence": 0.7789293841714698
+  },
+  {
+    "fragment": "3. La tendencia a resolver conflictos mediante golpes y amenazas refleja una forma de defensa y de reconocimiento en su entorno social. Para estos estudiantes, la violencia es un medio para mantener su posición y evitar ser vulnerados, consolidando así su identidad como \"el gamín\" o el que no se deja dominar.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7952711295100526
+  },
+  {
+    "fragment": "Voy a apelar un poco lo que decía NOMBRE PERSONA y es que en principio el contexto de ellos, el modo en que ellos han visto cómo se resuelven los conflictos son modos violentos, incluso ellos en su casa, en sus mismos entornos, están sometidos a procesos violentos consigo mismos. Entonces, ellos no ven otro mecanismo posible para resolver conflictos, sino más allá de la violencia, es porque no lo saben, no lo han aprendido. Hay casos de niños que a duras penas tienen un cuaderno para estudiar y no tienen acceso a ese tipo de recursos, lo que limita su posibilidad de aprender mecanismos no violentos para resolver problemas.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8156560618394743
+  },
+  {
+    "fragment": "Partamos que nosotros no hablamos de castigos. No, castigo no. Mira, es que estamos en la escuela, estamos en la escuela y la escuela, por principio, todo lo tiene que volver a aprendizaje, primero, todo lo tiene que volver a aprendizaje, en la escuela no hay castigos, en la escuela de nosotros, tal vez, pero en la actual no hay castigos. Toda acción se debe volver a aprendizaje.",
+    "question": "Question not available",
+    "category": [
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.7732563924050947
+  },
+  {
+    "fragment": "A veces, no hay una reflexión, un castigo, un diálogo o alguna acción en la casa que permita procesar lo que sucede. La situación parece quedar aquí, adentro, en el interior de la persona, sin que trascienda o se exprese afuera. La familia continúa con su rutina normal, salvo que algo salga a la luz o se convierta en un problema visible, pero en general, lo que pasa en el interior queda allí, sin ser abordado directamente.",
+    "question": "Question not available",
+    "category": [
+      "2.2 Actitudes hacia la restauración y la reconciliación",
+      "10.1 Estrategias para el reconocimiento del daño y su importancia en los procesos de restauración."
+    ],
+    "confidence": 0.7751788194077928
+  },
+  {
+    "fragment": "Serían unos acuerdos, ¿no? Cada parte tiene que igualmente decir que los acuerdos qué puede reparar, digamos, esa emoción o ese momento que le hizo pasar.",
+    "question": "Question not available",
+    "category": [
+      "10.3 Construcción, desarrollo y seguimiento del acuerdo restaurativo.",
+      "2.5 Reconciliación"
+    ],
+    "confidence": 0.7921422709107471
+  },
+  {
+    "fragment": "No en todos los casos. Eso iba a decirlo. Porque falta el reconocimiento. Aunque los maestros han tenido una formación, la movilidad del personal hace que se pierda mucho del trabajo realizado. La tarde lidera este proceso, movilizando a muchos maestros, y solo algunos, como NOMBRE PERSONA y yo, hemos sobrevivido a los cambios y a la rotación del personal. La formación inicial fue buena, pero con el tiempo, la mayoría de los profesores formados ya no están en la escuela, y eso afecta la continuidad de los proyectos y las prácticas implementadas.",
+    "question": "Question not available",
+    "category": [
+      "11.7 Metodologías de enseñanza modificadas",
+      "11.9 Formación docente específica en JER"
+    ],
+    "confidence": 0.7889862912853842
+  },
+  {
+    "fragment": "Pero para cerrar un poquito lo que quería, entonces, tenemos la falencia de los padres de familia que ha sido complejo el ejercicio con ellos, porque no hemos podido, no hemos logrado como unificar con ellos, el trabajo con maestros que evidentemente se pierde esa concepción de JER perdida porque el maestro no está formado en el ejercicio y no lo entiende. Cuando lo va a aterrizar al aula, lo hace de manera diferente y está solicitando cosas totalmente distintas a lo que es la JER y a lo que se pretendía también con el proyecto. Además, hay un desconocimiento del manual de convivencia, claramente porque el manual de convivencia sí atraviesa, sí está atravesado, sí está... Y fue un trabajo de dos años donde nos sentamos, un equipo de trabajo a transversalizar todo este ejercicio, pero el desconocimiento del manual de convivencia, que lleva tres años, no permite aterrizarlo y se queda en el papel.",
+    "question": "Question not available",
+    "category": [
+      "0.1. Conocimiento de la JER",
+      "6.1 Integración del enfoque restaurativo en las experiencias pedagógicas."
+    ],
+    "confidence": 0.8092608285322251
+  },
+  {
+    "fragment": "Siento que hay un paso, un primer paso y es, ya se habla de, y eso es muy difícil en este colegio, empecemos nuevamente por la magnitud, entonces, ya que un profesor, un estudiante, alguien te esté preguntando ¿cuál va a ser la reparación? El discurso ahí se gana, siento que en algunos estudiantes se ha hecho, tenemos un grupo muy bonito que está trabajando, los líderes de convivencia que están trabajando desde el año pasado que tú te sientas a hablar con ellos, que NOMBRE PERSONA tiene muchos pelados de estos en NOMBRE PERSONA y tú te sientas y los chicos han apropiado y han asimilado mucho, pero pues para la magnitud del colegio. Y se pierde ese ejercicio, eso era lo que yo iba a decir, ese ejercicio se pierde cuando el maestro no está convencido y no se da cuenta de las herramientas que los niños adquieren entonces seguimos creando un círculo de dependencia total donde yo soy el maestro y yo resuelvo, entonces, por ejemplo yo continúo con mi curso del año pasado, entonces los niños, mis líderes de convivencia para mí son vitales en la convivencia escolar de mi curso, entonces cuando hay un conflicto, yo siempre les digo comité convivencia, no debería ser el término, pero los niños lo asimilan, entonces cuando ellos tienen una capacitación ellos me cuentan cuáles son las estrategias que trajeron, entonces me acuerdo mucho el año pasado, círculo de la palabra, y yo, ¿hicieron círculo de la palabra?, sí y yo ok, y hubo un chisme en mi salón, el año pasado era sexto, los chismes van y vienen a diario, entonces yo comité convivencia, hagamos un círculo de la palabra, empiezan ustedes, si ustedes no lo pueden resolver, entro yo y ellos se organizaron, hicieron el círculo, yo veía a los niños así como dando la palabra, no sé qué, se levantaban, no sé qué, teacher, ya lo resolvemos ok, ya saben, una versión libre con los acuerdos a los que hayan llegado y ellos ya tienen la idea de la restauración, obviamente la manejamos a nivel pequeño, entonces el estudiante afectado, yo tomo algo de mis onces y te lo doy a ti, que eso es algo que yo también le vendo a los papás, siempre cuando yo hago una citación, algo de las onces de tu hijo que se vaya para el estudiante afectado, para que haya un reconocimiento y a veces viene acompañado o yo les digo a los chicos ¿cómo piensas restaurar lo que pasó? escriben cartas, escriben poemas, hacen cosas, entonces digamos que los chicos que tienen clase conmigo, ellos ya saben como son mis condiciones y por eso yo resulto enterándome de un montón de cosas porque saben que yo resuelvo, por ejemplo, una cartuchera que se perdió este año ok, ¿cómo vamos a restaurar eso? además de devolver lo que se robaron, entonces ¿tenías plumones? ah, ¿no tenías plumones? queremos plumones para restaurar y lo traen y no me desgasto en un montón de procesos porque ya los chicos como que dicen bueno, sí, la embarré, tengo que reconocer al otro, sí, tengo que reconocer al otro, es una manera de disculparme, sí, claro.",
+    "question": "Question not available",
+    "category": [
+      "2.4 Prácticas de restauración y resolución de conflictos"
+    ],
+    "confidence": 0.8245
+  },
+  {
+    "fragment": "La simulación de las Naciones Unidas que hace en Bogotá. Lo que pasa es que este proyecto es bonito porque inicia siendo algo muy pequeño, entonces como dice NOMBRE PERSONA, empieza con esa inquietud de que esta coordinación es la locura. Tú eras el coordinador de convivencia, esta vaina es la locura. Había comité y manejaba 10, 15 casos. NOMBRE PERSONA bota la idea y pues a mí me llamó la atención y empiezo a revisar, a mirar porque no tengo la capacitación y siento que no conozco mucho. Empecé a mirar, a leer y empezamos a montar, encontré un equipo que copió, que tenía dos excelentes orientadores. Entonces le dije a mi orientador NOMBRE PERSONA y a NOMBRE PERSONA y les comenté y ellos se quedaron con el ruidito. NOMBRE PERSONA y NOMBRE PERSONA tenían algo maravilloso, que traían muchas cosas para el colegio externas, muchos apoyos. Nos empezamos a trabajar dialoguías escolares, en esa época se estaba trabajando con la SED. Hicimos una formación inicial con el grupo del que te estaba hablando, que ahorita está en once, con todos los novenos. Ellos empiezan a formarse en dialoguías, están formados en dialoguías escolares. Luego viene la subred y empieza a trabajar todo lo que es conflicto y mediación de conflicto. Se forman, empezamos a sacar a los chicos, eso también depende mucho de los espacios y los tiempos en la escuela, porque si no das el espacio y el tiempo, eso tampoco va a fluir.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED",
+      "9.3 Cambios significativos en la convivencia escolar a partir del enfoque restaurativo"
+    ],
+    "confidence": 0.7976192636041264
+  },
+  {
+    "fragment": "Por varias razones, la paz es un derecho fundamental constitucionalmente y también es esencial para lograr un buen vivir, ya que sin paz no es posible alcanzar ese bienestar. La paz, además, tiene un fundamento emocional, pues a veces siento que debería considerarse un valor tan importante como la honestidad o la honradez, ya que es algo que debería ser práctico y aplicable en la vida cotidiana. Es, por tanto, un ejercicio ético que requiere compromiso y reflexión.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.3. Paz y otros derechos"
+    ],
+    "confidence": 0.8326163837910101
+  },
+  {
+    "fragment": "Hice doctorado en humanidad, humanismo y persona, y el enfoque en educación está en la antropología educativa. Dentro del estudiante, existen pilares relacionados con ser un ser humano educable y que se educa. La paz, por ejemplo, es susceptible de educarse, lo que implica que no es una condición natural del ser humano, sino algo que se puede aprender y promover a través de la educación. La comprensión de que el otro es diferente a nosotros y que, siendo diferente, no debemos agredirlo, es fundamental para vivir en paz y mantener la cohesión social, ya que sin paz se pierde la base de la sociedad como seres sociales.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8177442061941517
+  },
+  {
+    "fragment": "No, en este colegio, ni internamente ni externamente. Yo creo que hay espacios de clase, compañeros que quizás sí pueden dar las oportunidades, que es un poco lo que yo iba a decir respecto a esto, yo me inclino más aquí en este caso por lados, y es por un asunto estructural.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "8.4. Escuelas como territorio de paz"
+    ],
+    "confidence": 0.7878902272670886
+  },
+  {
+    "fragment": "No, no, no, aquí hay toda la razón. Aquí hay una cátedra para la Paz, que mandó el ministerio de educación hace muchos años y que, desde entonces, no la maneja nadie. Se la asignaron en ese entonces a dos áreas, biología y sociales, si no estoy mal, y entre comillas venían a prepararnos, porque unas veces venían otros no. Esos son contratos locos que hace la secretaría, donde tienen que cumplir con tantas firmas y se acabó el problema.",
+    "question": "Question not available",
+    "category": [
+      "1.2. Defensa de la paz",
+      "1.1. Paz como derecho"
+    ],
+    "confidence": 0.7884451563151236
+  },
+  {
+    "fragment": "En el papel y no como dice NOMBRE PERSONA, como algo transversal incluido en el curriculum. Que es lo mismo que está pasando con socioemocionalidad, con socioemocionalidad empezábamos a hablar que sí y hablábamos y hablábamos pero cuando vamos a hacer el ejercicio dentro de la aula, no tenemos ni idea de como aterrizar, y es básico nosotros como maestros, los maestros que estamos ahorita, estoy hablando de estas generaciones, nosotros no estamos formados acá estamos formados en una escuela totalmente diferente, estamos formados en una escuela totalmente dogmática, totalmente estructural, la formación de esa escuela diferente, esa escuela diversa, esa escuela comunitaria de esa escuela no la chapusean en 2, 3 leyendo a Freire, sí rico chévere la escuela ay sí y chao. Pero realmente nosotros en las realidades de la escuela, nosotros esto no los conocemos, pero quisiera ver a Freire también un mes de maestro en esta realidad.",
+    "question": "Question not available",
+    "category": [
+      "8.3. Cambios en el ambiente escolar",
+      "11.7 Metodologías de enseñanza modificadas"
+    ],
+    "confidence": 0.8040208364693616
+  },
+  {
+    "fragment": "Porque termina entonces ni siquiera habiendo castigo, que es lo más lamentable del asunto, entonces se convierte en una fiesta. Se convierte en una anarquía. Listo, para terminar esta base, en esta institución educativa se han incorporado los enfoques de verdad y memoria histórica en los planes curriculares?",
+    "question": "Question not available",
+    "category": [
+      "5.2. Verdad y memoria en planes curriculares",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.782251051573539
+  },
+  {
+    "fragment": "Bueno, yo creo que sí, creo que debe continuar, debe convertirse en prácticas de aula que es lo más importante. Si la JER no es una práctica de aula, esa vaina queda solamente en el manual de convivencia y eso.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "11.8 Herramientas estrategia JER incorporadas"
+    ],
+    "confidence": 0.7925869894937005
+  },
+  {
+    "fragment": "Creo que el ejercicio cuando llega la JER a la educación llega también de la mano de esos procesos que venían de diálogos de paz y siento que si Colombia quiere realmente entrar en unos procesos de paz es importante que la escuela sea eje fundamental. Esos diálogos de paz tienen que iniciar en la escuela. Si claro, y esos procesos y entender esos procesos cuando tú te sientas, cuando se habla cuando están en las mesas y tú eres la mamá y el que mató tu hijo y esas situaciones de hacerse humano, de sentirse humano, me parece que son las que tienen que entrar a la escuela, eso sí debe ser algo fundamental porque la escuela hoy en día su función es esa, su función es bien lo decía NOMBRE PERSONA, ser social porque si no pues apaga y vámonos, por eso nosotros continuamos después de la pandemia, sino nosotros no hubiéramos continuado, la escuela se hubiera acabado en la pandemia porque conocimiento como lo manejamos nosotros entre comillas, pues ahí está en la pantalla, pero el aprender a socializar, el aprender a compartir, el aprender a estar con el otro, aprender a manejar, aprender a ser un humano, creo que es fundamental.",
+    "question": "Question not available",
+    "category": [
+      "1.1. Paz como derecho",
+      "1.2. Defensa de la paz"
+    ],
+    "confidence": 0.8159185293197173
+  },
+  {
+    "fragment": "La principal necesidad es que haya recursos y que se generen espacios, no solo recursos económicos, sino espacios de formación continua y real con personas que conozcan el tema. Cuando inicié, en serio no conocía nada y todavía siento que falta mucho por aprender. Hay profesores que no implementan ciertas acciones por desconocimiento, lo cual requiere recursos de formación, pero una formación efectiva, no solo talleres cortos de dos horas. Es fundamental que existan espacios de formación continua y de calidad, que realmente aporten al desarrollo profesional y al trabajo con los niños.",
+    "question": "Question not available",
+    "category": [
+      "13.4. Recomendaciones para mejorar los resultados de la JER",
+      "11.10 Uso de mecanismos de participación"
+    ],
+    "confidence": 0.8100346463716361
+  },
+  {
+    "fragment": "Es que si lo pensamos desde lo que ha acontecido en los últimos días, en las últimas semanas, meses quizás, de eventos de conflicto que han habido en la institución, está la cosa difícil. Estamos hablando de que niños apuñalan compañeros, cosas así, entonces, digamos que en términos de la mediación del conflicto, yo siento que hemos estado echando para atrás algunos pasos, que han hecho falta cosas, estructuralmente en el colegio faltan cosas, en términos de gestión del colegio, y pienso particularmente en la coordinación de convivencia, no hay una claridad en términos de coordinación de convivencia en este momento.",
+    "question": "Question not available",
+    "category": [
+      "1.4. Paz y convivencia",
+      "2.4 Prácticas de restauración y resolución de conflictos"
+    ],
+    "confidence": 0.8085361408872104
+  },
+  {
+    "fragment": "Ay no, pésimo, hablo de la Secretaría, no voy a hablar de la persona, o sea, ellos designaron en ese año a los de la OCE, algunas personas que ahora están en la OCE que no eran de la OCE en ese entonces, para acompañar colegios, pero es que es una cosa loca, NOMBRE PERSONA venía a este colegio y como a ocho, pues ¿a qué horas? Y volvemos a lo mismo, es muy difícil porque teníamos la actividad acá, entonces él ya tenía la actividad allá, entonces tenía la actividad en esos espacios con maestros, era muy complejo porque escuadrar 20 personas para la magnitud de Bogotá para capacitaciones.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED"
+    ],
+    "confidence": 0.7767757684552411
+  },
+  {
+    "fragment": "Lo primero es que se tiene que partir de que lo que haya en documentación, o sea, toda la estructura de JER, tiene una documentación creada por gente que no está en colegio. Es importante entender que existen colegios en concesión, que no es lo mismo que un colegio público; el colegio de concesión es un colegio privado con recursos públicos, pero que no tienen las mismas dinámicas. Por lo tanto, la información y las prácticas derivadas de estos colegios no necesariamente aplican directamente a los colegios públicos.",
+    "question": "Question not available",
+    "category": [
+      "11.3 Presupuesto específico estrategia JER",
+      "0.1. Conocimiento de la JER"
+    ],
+    "confidence": 0.7948975595340526
+  },
+  {
+    "fragment": "Sí, claro, lo que pasa es que... No, mira, es que ¿cuál es el problema? La situación del proyecto JER en Ciudadela. Cuando el proyecto depende de una persona, el proyecto no camina si esa persona no está y eso es un error muy grande y eso es lo que está pasando y es un error grandísimo ¿Por qué? Porque no hay un ejercicio consciente de trabajo, de..",
+    "question": "Question not available",
+    "category": [
+      "13.3 Retos y dificultades",
+      "4.2. Acciones para fortalecer capacidades ciudadanas"
+    ],
+    "confidence": 0.7813922813914885
+  },
+  {
+    "fragment": "Que se convierta en el plan de estudios del colegio, pero es que, involucra muchas cosas. Ahí hay una dificultad. PI, manual de convivencia, plan de estudios.",
+    "question": "Question not available",
+    "category": [
+      "11.4 Ajuste organizacional IED",
+      "1.4. Paz y convivencia"
+    ],
+    "confidence": 0.7934139948816564
+  }
+]
